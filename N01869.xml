@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002215_0000_0FDACF3CEE7138A0"/>
-            <pb facs="tcp:002215_0001_0FDAC8DD94D25280" rendition="simple:additions"/>
+            <pb facs="unknown:002215_0000_0FDACF3CEE7138A0"/>
+            <pb facs="unknown:002215_0001_0FDAC8DD94D25280"
+                rendition="simple:additions"/>
             <p>REMARKS upon Mr. <hi>Gales</hi> Reflections on Mr. <hi>Walls</hi> HISTORY OF Infant Baptism.</p>
             <p>In a Letter to a Friend.</p>
             <q>
@@ -130,7 +131,7 @@
             </p>
          </div>
          <div type="errata">
-            <pb facs="tcp:002215_0002_0FDACF24D27EF858"/>
+            <pb facs="unknown:002215_0002_0FDACF24D27EF858"/>
             <head>ERRATA.</head>
             <p>The absence of the Author from the Press may be some apology for so many Errors in the Press Work of so small a Treatise. The most Considerable whereof are here Remarkt. P. stands for Page, and <hi>l.</hi> for line, &amp;c.</p>
             <p>PAg. 14 line 12 for <hi>Leaving</hi> Read <hi>Bearing,</hi> p. 16 l. 22 f. <hi>on</hi> r. <hi>in,</hi> p. 19 l. 2 f. <hi>many't</hi> r. <hi>mayn't,</hi> p. 10 <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -165,11 +166,11 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:002215_0003_0FDACF2653B1F630"/>
+            <pb facs="unknown:002215_0003_0FDACF2653B1F630"/>
             <head>To the READER.</head>
             <p>HAving read what Mr. <hi>Gale</hi> against <hi>Wall's History of Infant Baptism,</hi> has advanc'd, I was too easily imposed upon by the Ingenuity of so Learned a Pen; and his plausible way of writing prevailed upon me too credulously to take in what was there offer'd; However for my further sa<g ref="char:EOLhyphen"/>tisfaction I apply'd my self to the Author of the ensuing Discourse, and desired his Remarks on the most Material Passages in Mr. <hi>Gales</hi> Treatise; as also to essay the Vindication of Infant-Baptism, with the usual mode of administring that Sacra<g ref="char:EOLhyphen"/>ment by Affusion. In answer to which the following Composure was written, with<g ref="char:EOLhyphen"/>out any view to its being publish'd.</p>
             <p>As I am privileged with a peculiar in<g ref="char:EOLhyphen"/>terest in the Friendship of the Author, I shall not hazard his Displeasure, by offen<g ref="char:EOLhyphen"/>ding his Modesty. Only thus much I would crave liberty to say, That altho' he shuns Praises, He cannot miss a just esteem: from the Judicious. As this small Tract
-<pb facs="tcp:002215_0004_0FDACF27F9820008"/>
+<pb facs="unknown:002215_0004_0FDACF27F9820008"/>
 has yielded me great satisfaction, and been approv'd by Persons of a more Conside<g ref="char:EOLhyphen"/>rable Character, who have seen it in Ma<g ref="char:EOLhyphen"/>nuscript; I was encourag'd to give it a Birth in Print, in hopes it might be serviceable to promote the Truth, which if attended with Success, will abundantly compensate for the Censure of Vanity, or what ever else may be thrown on him who may (at least) justly claim the Character of being <hi>A Well-wisher to Truth.</hi>
             </p>
             <closer>
@@ -179,7 +180,7 @@ has yielded me great satisfaction, and been approv'd by Persons of a more Consid
       </front>
       <body>
          <div type="letter">
-            <pb n="5" facs="tcp:002215_0005_0FDACF29976F15A0"/>
+            <pb n="5" facs="unknown:002215_0005_0FDACF29976F15A0"/>
             <head>Remarks upon Mr. <hi>Gales</hi> Re<g ref="char:EOLhyphen"/>flections on Mr. <hi>Wall's</hi> History of Infant <hi>Baptism.</hi>
             </head>
             <head type="sub">To his Friend Mr. <hi>T. W.</hi>
@@ -189,7 +190,7 @@ has yielded me great satisfaction, and been approv'd by Persons of a more Consid
             </opener>
             <p>YOur Acquaintance with my Circum<g ref="char:EOLhyphen"/>stances makes you sensible of the lit<g ref="char:EOLhyphen"/>tle Leisure I have, from my multi<g ref="char:EOLhyphen"/>farious Encumbrances, to answer your Desires; you must therefore not Expect from me, a particular Answer, to all that's Exceptionable, in Mr. <hi>Gales Reflections,</hi> on Mr. Walls <hi>History</hi> of <hi>Infant Baptism</hi>; But must be Content with ha<g ref="char:EOLhyphen"/>ving matter of Conviction Briefly offerred, that his Arguments are not Unanswerable; and that a small degree of learning and Ingenuity, is suf<g ref="char:EOLhyphen"/>ficient to Undermine and Raze to the ground this admired Structure; which he has with such Elaborate pains and study Erected.</p>
             <p>His two first <hi>Letters</hi> do principally consist of
-<pb n="6" facs="tcp:002215_0006_0FDACF2AD326A620"/>
+<pb n="6" facs="unknown:002215_0006_0FDACF2AD326A620"/>
 Reflections on Mr. <hi>Walls</hi> un-fair dealing, in his Book, (which not having seen, I am not able to vindicate.) These therefore not affecting the Controversy, I shall pass over in Silence.</p>
             <p>
                <hi>Mr Gale</hi> begins his third Letter; by shewing wherein the Controversy between them and the <hi>Pado-baptists,</hi> Consists, <hi>viz.</hi> (1) <hi>In the Mode of Baptism, whether its to be administred only by Dip<g ref="char:EOLhyphen"/>ping</hi>? (2) Who are the true Subjects of it, whe<g ref="char:EOLhyphen"/>ther Adult Persons only, or Infants also? <note n="*" place="bottom">
@@ -207,7 +208,7 @@ Reflections on Mr. <hi>Walls</hi> un-fair dealing, in his Book, (which not havin
             <p n="2">2. <hi>Falshood.</hi> What <hi>Po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>dobaptist.</hi> Author did Ever acknowledge, that their Practice Exactly
-<pb n="7" facs="tcp:002215_0007_0FDACF2C52945CE8"/>
+<pb n="7" facs="unknown:002215_0007_0FDACF2C52945CE8"/>
 agrees with the Scriptures, and that our Pra<g ref="char:EOLhyphen"/>ctice is very different, from what the Text declares to have been done in the ancient Times? I challenge him in the words of <hi>King <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
@@ -219,14 +220,14 @@ agrees with the Scriptures, and that our Pra<g ref="char:EOLhyphen"/>ctice is ve
             <p>I accept his Challenge; For although I freely acknowledge, that the word very frequently signifies to <hi>Dip,</hi> yet not always, which when made appear, will overthrow his whole <hi>Argu<g ref="char:EOLhyphen"/>ment,</hi> from the word <hi>Baptizo.</hi>
             </p>
             <p>All his <hi>Quotations</hi> from profane Authors, (if pertinent) will do him but very little service; for his highest Pretence from them must be that the word is sometimes used in the sense he pleads for, and particularly in the places Cited; But this notwithstanding, it may carry a different meaning in Thousands of Instances, for ought he knows. But what will become of his Argu<g ref="char:EOLhyphen"/>mentation
-<pb n="8" facs="tcp:002215_0008_0FDACF2DD2BBFD70"/>
+<pb n="8" facs="unknown:002215_0008_0FDACF2DD2BBFD70"/>
 upon this Topick, if some of his own cited Instances, should have the ill manners to Contradict him? which I am pretty Confident they will.</p>
             <p>He brings an Instance from <hi>Homers Batrachomy<g ref="char:EOLhyphen"/>omichia,</hi> who sayes, when one of the Champions was slain, by the side of a Lake, <hi>he breathless fell, and The Lake was Ebapteto,</hi> (which he transla<g ref="char:EOLhyphen"/>tes (<hi>Tinged with Blood.</hi>) Can he perswade a Gentleman of your Reason to believe, that the Lake was <hi>Dipt</hi> in Blood, or that the Poet so in<g ref="char:EOLhyphen"/>tended? Especially when you Remember, that this mighty Hero <hi>Crambophagus,</hi> from whose slaughter was this Deluge of Blood, was but a <hi>Frog</hi> Dying by the Hands of his victorious Ene<g ref="char:EOLhyphen"/>mies, the <hi>Mice.</hi> I am sure that it would be a more natural, and genuine Translation, to Read it, <hi>The Lake was sprinkled, or stayn'd with Blood,</hi> This would (if we look upon these Cham<g ref="char:EOLhyphen"/>pions as this ingenuous Ludicrous Poem Re<g ref="char:EOLhyphen"/>presents them, to be famous <hi>Martial Chevaliers</hi>) make the Poets words both Truth and sense; But his Translation neither the one or the other; For he himself is forced to acknowledge, it <note n="†" place="bottom">
                   <hi>Page</hi> 107.</note> 
                <hi>very Ridiculous, to speak of Dipping or Plunging a Lake, in the Blood of a slain Champion.</hi>
             </p>
             <p>Previous to a particular Consideration of his Crafty attempt, to make the word a Nose of wax, to bend to his purpose, I shall observe to you, that we are not to put a Metaphorical Construction upon any Authors words, unless
-<pb n="9" facs="tcp:002215_0009_0FDACF2F527BF6D0"/>
+<pb n="9" facs="unknown:002215_0009_0FDACF2F527BF6D0"/>
 the Sense of the Phrase Ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>essarily Require it, For this Practice would render all Writings, <hi>sacred</hi> and <hi>Profane,</hi> wholly Unintelligible, with<g ref="char:EOLhyphen"/>out any constant steady meaning, and liable to subversion, according to the Capricious Fancy of every humersome Wrangler; This would <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -239,7 +240,7 @@ the Sense of the Phrase Ne<gap reason="illegible" resp="#PDCC" extent="1 letter"
                <q>This Phrase (says he) we must Consider, is borrowed from the art of Dyers, who colour things by <hi>Dipping</hi> them in their Dye.</q>
             </p>
             <p>But then here is a Comparison without any similitude, for I can't devise where lies the parity between <hi>Dipping</hi> things in Dye, and the Running of Blood into a Lake; It is therefore but a wheadling of all Mankind out of their Reason, To perswade them to accept of this Translation, or this Metaphor, as you'll be con<g ref="char:EOLhyphen"/>vinced, when you consider, (1.) That if the words are litteral Translated, so as to be made sense of, they must be rendred as above <hi>The
-<pb n="10" facs="tcp:002215_0010_0FDACF30D266C120"/>
+<pb n="10" facs="unknown:002215_0010_0FDACF30D266C120"/>
 Lake was sprinkled or stayned with Blood.</hi> (2) If you choose the Latter of these Terms, and will have it Metaphorical, why it mayn't allude to the <hi>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -267,7 +268,7 @@ Lake was sprinkled or stayned with Blood.</hi> (2) If you choose the Latter of t
 Here we have then, by our Authors own acknow<g ref="char:EOLhyphen"/>ledgment, an Instance where the word does not signifie <hi>Dipping</hi> or <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> And what be<g ref="char:EOLhyphen"/>comes then of his Arguments from the word
-<pb n="11" facs="tcp:002215_0011_0FDACF32526D1638"/>
+<pb n="11" facs="unknown:002215_0011_0FDACF32526D1638"/>
                <hi>Baptizo?</hi> But he'll tell us, That there is a (<note n="†" place="bottom">
                   <hi>Page</hi> 105.</note>) <hi>manifest allusion to the art of Dying, in these, and all such passages.</hi> But how does this appear?
 <q>The true Primitive Meaning is only still Refered to and Implyed.</q>
@@ -288,7 +289,7 @@ I confess, I have such a brazen fore-head, as to Peremptorily deny it<g ref="cha
                      </gap>pping</hi> her Face in Ver<g ref="char:EOLhyphen"/>million, when she adorns it with artificial Co<g ref="char:EOLhyphen"/>lours, which on the contrary, its known, must be more artfully <hi>Laid on.</hi>
                </q>
 But I'm sure its no wayes Ridiculous for a man seriously to talk of a Ladies <hi>Painting</hi> her Face with Ver<g ref="char:EOLhyphen"/>million,
-<pb n="12" facs="tcp:002215_0012_0FDACF3401FB7DF8"/>
+<pb n="12" facs="unknown:002215_0012_0FDACF3401FB7DF8"/>
 after the above said manner; And what need then of this Far-fetcht and Incon<g ref="char:EOLhyphen"/>gruous Metaphor? Again.</p>
             <p>We need not go above a Dozen Lines fur<g ref="char:EOLhyphen"/>ther, before we meet with the word <hi>Baptei,</hi> which I think no man of Learning but Mr. <hi>Gale,</hi> would have translated as he does. The words he quotes from <hi>Aristo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -298,7 +299,7 @@ after the above said manner; And what need then of this Far-fetcht and Incon<g r
                   <desc>•</desc>
                </gap> let us Construe the words in our Authors Sense. <hi>Thlibomenos de,</hi> if it is pressed, <hi>Baptei,</hi> it Dyes or Colours, <hi>kai,</hi> and <hi>anthizei,</hi> it Colours, or makes of a florid Colour, <hi>teen Keira,</hi> the hands. There is no need to make Remarks upon the Tauto<g ref="char:EOLhyphen"/>logy of this Translation, or the Authors Unfair<g ref="char:EOLhyphen"/>ness in this Instance; But I must tell you, that if the word here be taken for <hi>Dying,</hi> it has no Reference at all to <hi>Dipping,</hi> nor can signifie to <hi>Dip</hi> or <hi>Plunge,</hi> unless <hi>he</hi> can persuade us to believe, that squeezing a Lock of wet Wool in our hands, is to <hi>Dip</hi> or <hi>Plunge</hi> them. How far then the word is here from properly, signi<g ref="char:EOLhyphen"/>fying to <hi>Dip,</hi> (as Mr. <hi>Gale,</hi> would persuade us it always does) I submit to your Censure. Again,</p>
             <p>
-               <pb n="13" facs="tcp:002215_0013_0FDACF3552B7B3C8"/>He brings in <hi>Strabo</hi> saying, That the Souldiers marched a Day through the water, (<hi>Baptizo<g ref="char:EOLhyphen"/>menon,</hi> which he Renders) <hi>Dipt</hi> up to the waste But would it not be better sense to Read it, <hi>Wet up to the Waste?</hi> Unless Mr. <hi>Gale</hi> can per<g ref="char:EOLhyphen"/>suade us, that there is no difference between <hi>Wading</hi> and <hi>Plunging.</hi>
+               <pb n="13" facs="unknown:002215_0013_0FDACF3552B7B3C8"/>He brings in <hi>Strabo</hi> saying, That the Souldiers marched a Day through the water, (<hi>Baptizo<g ref="char:EOLhyphen"/>menon,</hi> which he Renders) <hi>Dipt</hi> up to the waste But would it not be better sense to Read it, <hi>Wet up to the Waste?</hi> Unless Mr. <hi>Gale</hi> can per<g ref="char:EOLhyphen"/>suade us, that there is no difference between <hi>Wading</hi> and <hi>Plunging.</hi>
             </p>
             <p>I'll add but once or twice more; and no longer tire your patience, in this wild Goose-Chase. <note n="⸫" place="bottom">
                   <hi>Page</hi> 125.</note> Mr. <hi>Gale</hi> promises us an Instance from <hi>Plutarch,</hi> which shall be Evident enough; and so it is, that the word in Debate does not always signify to <hi>Dip,</hi> or <hi>Plunge.</hi>
@@ -309,7 +310,7 @@ after the above said manner; And what need then of this Far-fetcht and Incon<g r
                   <desc>•</desc>
                </gap> received the Blood running out of his Wound; But how this was <hi>Dipping</hi> his hand in his Blood, or how he was capable so to do, Mr. <hi>Gale</hi> should have better Illustrated. Its plain, his hand was <hi>Baptized</hi> by <hi>Affusion,</hi> and no otherwise.</p>
             <p>He Proceeds to quote the <hi>Meditations</hi> of that Renowned Pious Emperour <hi>Mareus Antoninus,</hi> who says <hi>such as the Thoughts are, that you are most Possessed with, such will your Mind be; for the thoughts. (Baptetai,</hi> which he Reads) <hi>Dip the Mind.</hi> It would make a man smile, were he
-<pb n="14" facs="tcp:002215_0014_0FDACF36D983D858"/>
+<pb n="14" facs="unknown:002215_0014_0FDACF36D983D858"/>
 Never so serious, to hear of the Mind's being <hi>Dipt</hi> or <hi>Plunged</hi> in the Thoughts. The meaning of the words plainly are, that the Thoughts leave a fixed impression on the Mind, and that according to the Thoughts we Entertain with our Disposions and Affections be. Once more,</p>
             <p>He finds the same <hi>Royal Author</hi> saying, <hi>Don't make the former Emperours the pattern of your actions, lest (Baphe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -322,7 +323,7 @@ Never so serious, to hear of the Mind's being <hi>Dipt</hi> or <hi>Plunged</hi> 
             <p>I might have taken Notice of other Passages, that further enlighten the Case before us; but I've already wearied my own patience, and I'm afraid yours.</p>
             <p>'In the Close of his Third Letter, and begin<g ref="char:EOLhyphen"/>ning of the Fourth, he would persuade us, that the <hi>Lexicographers</hi> and <hi>Criticks,</hi> constantly affirm, That the proper and genuine sense of <hi>Baptizo,</hi> is <hi>Immergo, Mergo,</hi> &amp;c. to <hi>Plunge</hi> or <hi>Dip.</hi> We'll then take the pains to peruse a few of them, and see what they say about it.</p>
             <p>
-               <pb n="15" facs="tcp:002215_0015_0FDACF38737124C8"/>
+               <pb n="15" facs="unknown:002215_0015_0FDACF38737124C8"/>
                <hi>Schrivelius</hi> in his <hi>Lexicon</hi> (a Book of general Use; and best account throughout <hi>Europe</hi>) Ren<g ref="char:EOLhyphen"/>ders the word (<hi>Baptizo</hi>) by <hi>mergo, Lavo,</hi> to <hi>Dip</hi> and <hi>Wash.</hi> The word (<hi>Baptismos</hi>) by <hi>Lotio, Washing</hi> only.</p>
             <p>
                <hi>Passor,</hi> a generally approved <hi>Lexicographer,</hi> Renders the word Just as the former, <hi>Baptizo, Mergo, Lavo,</hi> To <hi>Immerse</hi> or <hi>wash</hi>; and <hi>Baptis<g ref="char:EOLhyphen"/>mos,</hi> by <hi>Lotio, washing</hi> only:</p>
@@ -346,7 +347,7 @@ Never so serious, to hear of the Mind's being <hi>Dipt</hi> or <hi>Plunged</hi> 
                   </gap>g.</hi>
             </p>
             <p>
-               <pb n="16" facs="tcp:002215_0016_0FDACF3A632D2468"/>
+               <pb n="16" facs="unknown:002215_0016_0FDACF3A632D2468"/>
                <hi>Bucan</hi> Sayes, <hi>Baptismos is para to Baptein, which is Tingere, Madefacere: et Lavare, To Tinge, to make Wet; and to Wash.</hi>
             </p>
             <p>
@@ -365,7 +366,7 @@ Never so serious, to hear of the Mind's being <hi>Dipt</hi> or <hi>Plunged</hi> 
             </p>
             <p>I find by me one Celebrated <hi>Critick</hi> more it is <hi>Ioseph Lang.</hi> his <hi>Polyanthea Nova</hi> in verb Baptismus, saith <hi>Grece</hi> Baptismos <hi>et est ablutio,</hi> &amp;c. <hi>Baptism. in</hi> Greek, Baptismos, <hi>and is a</hi> Washing &amp;c.</p>
             <p>
-               <pb n="17" facs="tcp:002215_0017_0FDACF3B5355C4A0"/>Thus, <hi>Sir,</hi> I have perused all the <hi>Lexicogra<g ref="char:EOLhyphen"/>phers</hi> and <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="17" facs="unknown:002215_0017_0FDACF3B5355C4A0"/>Thus, <hi>Sir,</hi> I have perused all the <hi>Lexicogra<g ref="char:EOLhyphen"/>phers</hi> and <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -390,7 +391,7 @@ Never so serious, to hear of the Mind's being <hi>Dipt</hi> or <hi>Plunged</hi> 
             <p>You see, by what has been said, how little Mr. <hi>Gale</hi> is to be Relyed on, he having been very much out of the way in this Instance, we have great Reason to suspect him, in every thing Else, that Depends upon his Authority.</p>
             <p>I am perswaded, that not only these Authors that I have cited, but Even all other <hi>Criticks</hi> in general<g ref="char:punc">▪</g> will assign the meaning I plead for, to the word. <hi>Baptizo</hi>; but I have none Else by me, nor advantages to obtain any in this obscure part of the world.</p>
             <p>The next thing that lies before us, is to
-<pb n="18" facs="tcp:002215_0018_0FDAC8DC43EB24B0"/>
+<pb n="18" facs="unknown:002215_0018_0FDAC8DC43EB24B0"/>
 consider the use of the word in <hi>Scripture,</hi> and see<g ref="char:punc">▪</g> whether it always, as Mr. <hi>Gale</hi> pretends, signifyes <hi>Dipping</hi> there;</p>
             <p>I shall offer you but one Instance out of the Seventy's Translation of the <hi>Old Testament,</hi> and one out of the <hi>Apocrypha</hi>; for the former being <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -429,7 +430,7 @@ consider the use of the word in <hi>Scripture,</hi> and see<g ref="char:punc">�
                   </gap>n mundetur sed tantum attinga<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> humore,
-<pb n="19" facs="tcp:002215_0019_0FDACF3E8A008430"/>
+<pb n="19" facs="unknown:002215_0019_0FDACF3E8A008430"/>
 vel tota vel ex parte. <hi>It so</hi> washes <hi>that the thing many't be cleansed, &amp;c, </hi>
                </q>And Tabang, <hi>(the word under dispute) he Renders</hi> Immersus, In<g ref="char:EOLhyphen"/>fixus, Affixus, Impressus suit, <hi>Immersed, Infixed, Affixed, Impressed.</hi>
 And I'm sure that the Latter of these Constructions, that the Dew was <hi>Impressed,</hi> or fell upon him, is better sense than that he was <hi>Dipt</hi> in the Dew.</p>
@@ -439,7 +440,7 @@ And I'm sure that the Latter of these Constructions, that the Dew was <hi>Impres
 This Metaphorical sense, he endeavours to vindicate by alledging,
 <q>That the Dews in the East are generally very large; </q>which he Confirms by the Instance of <hi>Gideons Fleece</hi> (which being miraculous, is very Impro<g ref="char:EOLhyphen"/>perly urged in this Case) But all this Harrangue is very impertinent; for it's plain that the Scope and Drift of the words, was not to shew the quantity of the Dew he was wet with (he was Exposed to no Dew but what was ordinary; there needed therefore not Emphasis upon the words) But the Brutal sort of Life, that so great a <hi>Monarch</hi> was brought unto, by the Just (the amazing) Judgement of God;
 How he was
-<pb n="20" facs="tcp:002215_0020_0FDACF3FD6068108"/>
+<pb n="20" facs="unknown:002215_0020_0FDACF3FD6068108"/>
 turned out from Humane society, and instead of his magnificent Palace, which he with so much Haughtiness gloried in, had no Roof but the Sky, to Cover him, and to shelter him, from the Injuries of the Weather, and the <hi>Dew</hi> of Heaven. This is evidently the Scope of the Story, and therefore it stands in no need of (but has apparent violence offerred by) such meta<g ref="char:EOLhyphen"/>phorical Constructions, as he puts upon it.</p>
             <p>The next place I shall mention; is,
 That <hi>Eccles</hi> 34<g ref="char:punc">▪</g> 29·<q> He that washeth (<hi>Baptizomenos</hi>) because of a Dead Body, and toucheth it again, what availeth his washing?</q>
@@ -447,7 +448,7 @@ That the Washing here spoken of, was by <hi>Sprinkling</hi> is most certain, and
                   <desc>〈…〉</desc>
                </gap> sayes to the Contrary) If the Institu<g ref="char:EOLhyphen"/>tion of this Rite be duely Consider'd, you'l find it in <hi>Numb.</hi> 19. throughout <hi>v.</hi> 13.
 <q>Whosoe<g ref="char:EOLhyphen"/>ver toucheth the Dead Body of any man that is Dead, and purifyeth not himself, Defileth the Tabernacle of the Lord, and that Soul shall be cut off from <hi>Israel,</hi> because the water of separation was not <hi>Sprinkled</hi> upon him. <hi>vers.</hi> 18. And a clean Person shall take Hyssop, and Dip it in the water, and <hi>Sprinkle</hi> it upon the Tent; and upon all the Vessels, and upon the Persons that were there, and upon him that touched a Bone, or one slain, or one Dead, or a Grave. <hi>vers.</hi> 19. And the Clean Person shall <hi>Sprinkle</hi> upon the Unclean, on the third Day, and on the Seventh Day; And on the Seventh Day we shall purify himself, and
-<pb n="21" facs="tcp:002215_0021_0FDACF4153AEE8F0"/>
+<pb n="21" facs="unknown:002215_0021_0FDACF4153AEE8F0"/>
 wash his Cloaths, and Bathe himself in Water, and shall be Clean at Even.</q>
 From this last Cited verse our Author tells us, <hi>Pag.</hi> 146.
 <q>That the Defiled Person was to be sprinkled with Holy Water, on the third, and on the Seventh Day, praeparatory to the great Purification, that was to be by Washing the Body, and Cloathes on the Seventh Day.</q>
@@ -463,7 +464,7 @@ He is Unclean, not because he hath not <hi>Bathed himself</hi>; But because he h
                </gap>, 20, 21, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> which it will
-<pb n="22" facs="tcp:002215_0022_0FDACF42D48CF0C8"/>
+<pb n="22" facs="unknown:002215_0022_0FDACF42D48CF0C8"/>
 be too tedious to transcribe again; and I desire you therefore to turn to them.</p>
             <p>
                <hi>Pag.</hi> 147 Mr. <hi>Gale</hi> subjoyns, That
@@ -473,7 +474,7 @@ Here he is out again; for the Bathe was the far lesser Cleansing. This will appe
             </p>
             <p>We'll next look into the <hi>New-Testament</hi> and see whether it always there, necessarily signifyes <hi>to Dip,</hi> and if we find it there of a differrent signification, tho' but in one Instance, I'm sure we have gained the Cause.</p>
             <p>
-               <pb n="23" facs="tcp:002215_0023_0FDACF44566A57A0"/>The first Place I'll, turn to is <hi>Luk</hi> 3.16. <hi>shall Baptize</hi> (BAPTISEI) <hi>you, with the Holy Ghost, and with Fire.</hi> You are sensible how Ridiculous it would be, to Translate the words, <hi>he shall Dip or Plunge you with the Holy Ghost and with Fire. Mr. Gale</hi> indeed Insinuates, That the <hi>Pag.</hi> 182. <hi>"Metophorical use of the word, must be" on his side.</hi> But you must Consider (<hi>Sir</hi>) that we are to Interpret Metaphorical Speeches, by taking notice of what is primarily alluded to in them, which in the Case before us, is the <hi>Cleansing</hi> or <hi>Purifying</hi> the subject. The office of the <hi>Holy Ghost</hi> is to Sanctify, or Purify, (not to <hi>Dip</hi>) the <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="23" facs="unknown:002215_0023_0FDACF44566A57A0"/>The first Place I'll, turn to is <hi>Luk</hi> 3.16. <hi>shall Baptize</hi> (BAPTISEI) <hi>you, with the Holy Ghost, and with Fire.</hi> You are sensible how Ridiculous it would be, to Translate the words, <hi>he shall Dip or Plunge you with the Holy Ghost and with Fire. Mr. Gale</hi> indeed Insinuates, That the <hi>Pag.</hi> 182. <hi>"Metophorical use of the word, must be" on his side.</hi> But you must Consider (<hi>Sir</hi>) that we are to Interpret Metaphorical Speeches, by taking notice of what is primarily alluded to in them, which in the Case before us, is the <hi>Cleansing</hi> or <hi>Purifying</hi> the subject. The office of the <hi>Holy Ghost</hi> is to Sanctify, or Purify, (not to <hi>Dip</hi>) the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> and their being <hi>Baptized</hi> by the <hi>Holy Ghost,</hi> intends no other, than to be sanctifyed, or Renewed, by the Regenerating Efficacy of Gods <hi>Holy Spirit.</hi> There is here no manner of allusion to <hi>Dipping</hi>; but to <hi>Washing</hi> or <hi>Cleansing</hi> in general, or rather to <hi>Affusion,</hi> for those that are <hi>Baptized</hi> or sanctfyed by the <hi>Holy Ghost,</hi> are said to have it Come, or be poured upon them. Thus <hi>Mat.</hi> 3.16. <hi>And he saw the Spirit of God, descending l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -481,7 +482,7 @@ Here he is out again; for the Bathe was the far lesser Cleansing. This will appe
             <p>The next place I take notice of, is <hi>Mark.</hi> 7.4. <hi>And when they come from the market, Except they wash</hi> (BAPTISONTA<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>) <hi>they Eat not, and many other things there be, which they have Receiv'd to hold, as the Washing.</hi> (BAPTISMOIS) <hi>of Cups and Pots, Brazen Vessels, and of Tables.</hi> But I must put you in mind, that tho' it be here Translated
-<pb n="24" facs="tcp:002215_0024_0FDACF45D41D8D28"/>
+<pb n="24" facs="unknown:002215_0024_0FDACF45D41D8D28"/>
                <hi>Tables,</hi> the original word <hi>[Kli<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>on] is Beds, and</hi> never signifyes otherwise, nor do I ever find it otherwise Translated, our English version only Excepted.</p>
@@ -507,7 +508,7 @@ Here he is out again; for the Bathe was the far lesser Cleansing. This will appe
                      <desc>•</desc>
                   </gap>ds</hi> under Water every time they Lay upon them; for if so, they would find but little comfort in them, especially in the Winter.</p>
             <p>I shan't Contend with <hi>Mr. Gale</hi> about his novel Construction of the former part of this verse; But he may, for me, embrace his opinion, that they were not personally <hi>Baptized,</hi> when they came from the market, but only <hi>Baptized</hi>
-               <pb n="25" facs="tcp:002215_0025_0FDACF47579402C0"/>
+               <pb n="25" facs="unknown:002215_0025_0FDACF47579402C0"/>
 what they bought there, These Consequences must be improved against him, if this Sense be allowed him.</p>
             <p n="1">1. That many things bought at the Market were utterly Ruined, and Rendred useless, if <hi>Dipe</hi> under Water, as <hi>Meal, Bread,</hi> and num<g ref="char:EOLhyphen"/>berless other things.</p>
             <p n="2">2. That this <hi>Baptizing</hi> was usual with them before they went to Meat, whether they came from the Market or not, as is evident from the Text, and from their being Scandalized at our Saviours omission of it.</p>
@@ -518,7 +519,7 @@ what they bought there, These Consequences must be improved against him, if this
                      <desc>•</desc>
                   </gap>,</hi> for the sake of Water to <hi>Dip</hi> in, there being a daily practical evidence, that there was water enough at <hi>Ieru<g ref="char:EOLhyphen"/>salem,</hi> and Elsewhere.</p>
             <p>These things Considered, I think it falls but
-<pb n="26" facs="tcp:002215_0026_0FDACF48D2CC64A8"/>
+<pb n="26" facs="unknown:002215_0026_0FDACF48D2CC64A8"/>
 little short of Demonstration, that the <hi>Bapti<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -531,7 +532,7 @@ little short of Demonstration, that the <hi>Bapti<g ref="char:EOLhyphen"/>
             <p>We'll next look into <hi>Heb.</hi> 9, 10. <hi>Which stood only in Meats and Drinks, and Divers Washings</hi> [BAPTISMOIS] <hi>and Carnal Ordinances.</hi>
             </p>
             <p>This is a Home-Thrust, and therefore puts our Author into a Sweat to turn it aside; which by all
-<pb n="27" facs="tcp:002215_0027_0FDACF4A5841ABC8"/>
+<pb n="27" facs="unknown:002215_0027_0FDACF4A5841ABC8"/>
 his Elaborate Pains he is not able to Effect. The Substance of what he Says, and upon which all his tedious Harrangue is founded, is <hi>page</hi> 169.
 <q>That the Words, for ought he knows to the con<g ref="char:EOLhyphen"/>trary, may speak of those Washings only, which were by <hi>Bathing</hi> or <hi>Dipping</hi> into Water.</q>
 This I shall therefore consider,</p>
@@ -547,7 +548,7 @@ This I shall therefore consider,</p>
                      <desc>•</desc>
                   </gap>ies to the purifying of the flesh, How much more shall the Blood of Christ?</hi> &amp;c.</p>
             <p>
-               <pb n="28" facs="tcp:002215_0028_0FDACF4BD3D96008"/>This makes it clear, beyond doubt, that the Washings Spoken of, were principally the <hi>Sprink<g ref="char:EOLhyphen"/>lings</hi> used among the <hi>Iews</hi>; for these, and these only, he Instanceth in, and referrs to, <hi>Num.</hi> 8, 7, and 19. <hi>per totum,</hi> upon which I have particu<g ref="char:EOLhyphen"/>larly discoursed above.</p>
+               <pb n="28" facs="unknown:002215_0028_0FDACF4BD3D96008"/>This makes it clear, beyond doubt, that the Washings Spoken of, were principally the <hi>Sprink<g ref="char:EOLhyphen"/>lings</hi> used among the <hi>Iews</hi>; for these, and these only, he Instanceth in, and referrs to, <hi>Num.</hi> 8, 7, and 19. <hi>per totum,</hi> upon which I have particu<g ref="char:EOLhyphen"/>larly discoursed above.</p>
             <p>By this time you can't but see, that the word in Debate, signifyes something Else beside <hi>Dip<g ref="char:EOLhyphen"/>ping, and Plunging.</hi>
             </p>
             <p>I am already (and I'm perswaded you also) grown weary of this word <hi>Controversy,</hi> you'll therefore Excuse me from further searching after, the meaning of the word in Scripture, when I've only Remark't,</p>
@@ -556,7 +557,7 @@ This I shall therefore consider,</p>
             </p>
             <p n="2">2. From <hi>Luk.</hi> 11.38. <hi>And when the Pharisee saw it, he marvailed that he had not first washed,</hi> (EBAPTISTHE) <hi>before Dinner.</hi> This compared with <hi>Mark.</hi> 7, 5 makes it Evident, that the washing of the Hand, is the <hi>Baptism</hi> of the man. Whether the hands were washed by <hi>Dipping</hi>
                <g ref="char:punc">▪</g> or <hi>Affusion,</hi> is not what I am now Enquiring; but
-<pb n="29" facs="tcp:002215_0029_0FDACF4D71BE8EE0"/>
+<pb n="29" facs="unknown:002215_0029_0FDACF4D71BE8EE0"/>
 what I observe is, that the Pharisee admired that he was not first <hi>Baptized</hi> (for so are the words Litterally to be translated) before Dinner, when the Washing of the Hand only, was what he Referred to. — And also to the same pur<g ref="char:EOLhyphen"/>pose.</p>
             <p n="3">3. From <hi>Mat</hi> 26.23. <hi>He that Dippeth</hi> (EMBAPSAS) <hi>his Hand, with me in the Dish.</hi> Hence then I argue, If <hi>Dipping</hi> the Tip of the Finger in Water be (<hi>Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -568,7 +569,7 @@ what I observe is, that the Pharisee admired that he was not first <hi>Baptized<
 <q>Exactly the same, as to their signification.</q>
             </p>
             <p>But if there be (as many have Learnedly argued) any difference in these words, it is al<g ref="char:EOLhyphen"/>together on our side: for if <hi>Bapto</hi> does not ne<g ref="char:EOLhyphen"/>cessarily include <hi>Dipping,</hi> in its signification, all Mankind will acknowledge it certain, that
-<pb n="32" facs="tcp:002215_0030_0FDACF4ED583C448"/>
+<pb n="32" facs="unknown:002215_0030_0FDACF4ED583C448"/>
                <hi>Baptizo</hi> can't be limited to that sense only.</p>
             <p>Mr. <hi>Gale</hi> next endeavours to prove his mode of <hi>Baptism,</hi> by Citations from the Fathers of the Church, To all which its Answer sufficient,</p>
             <p n="1">1. That the most that he quotes are too late to determine the matter, This matter; This Mr. <hi>Gale</hi> supposes sufficient answer to Mr. <hi>Wall,</hi> when he quotes <hi>Arrian of Nicomedia Page</hi> 355.
@@ -579,14 +580,14 @@ what I observe is, that the Pharisee admired that he was not first <hi>Baptized<
             <p n="1">1. He brings in <hi>St. Barnabas</hi> saying, That <hi>we descend into the Water, full of Sins and Defilement, &amp;c.</hi> If he had done fairly by his Reader, he would have told him, that <hi>St. Barnabas</hi> Words might as truly have been translated, <hi>We go</hi> unto <hi>the Water and come</hi> from <hi>the Water</hi>; for so the prepositions he renders <hi>into,</hi> and <hi>Out Of,</hi> are very frequently used, as you'll see at Large hereaf<g ref="char:EOLhyphen"/>ter. And</p>
             <p n="2">2. He quotes the <hi>Apostolick Constitutions,</hi> which he knows are Universally (by all learned men) acknowledged, to be spurious, and of a later date; He should therefore, have disabused his Reader, by giving him that account. All other his Citations, fall under the former Excepti<g ref="char:EOLunhyphen"/>on. To which I may add,</p>
             <p n="3">3. That the Fathers of the Church (as he knows, and is forced to acknowledge) do some
-<pb n="31" facs="tcp:002215_0031_0FDACF505667A438"/>
+<pb n="31" facs="unknown:002215_0031_0FDACF505667A438"/>
 of them approve, and argue for <hi>Sprinkling in Baptism</hi>;</p>
             <p>And this seems to have been the only Mode of administring the Ordinance in the early Ages of the Church, by that Story of <hi>Clemens Alewand</hi>
                <g ref="char:punc">▪</g> Related by <hi>Eusebius Hist. Eccles. Lib.</hi> 3. <hi>cap.</hi> 10. of an apostate youth, who after he had made a profession of <hi>Christianity,</hi> and enjoyed the Or<g ref="char:EOLhyphen"/>dinance of <hi>Baptism</hi>; forsook the wayes and fear of God, pursued all manner of Dissolute Cour<g ref="char:EOLhyphen"/>ses; Headed a Company of Thieves, and Ban<g ref="char:EOLhyphen"/>ditti, gave himself up to Slaughter, Murther, and Extream Cruelty. This being made known to the <hi>Apostle Iohn</hi> (who before had committed him to the Care of a Godly <hi>Bishop,</hi> for Educa<g ref="char:EOLhyphen"/>tion and Instruction in the Faith) He pursues him into the Wilderness, and finding him, brings him unto such a Sense of, and Repen<g ref="char:EOLhyphen"/>tance for his past course of Extravagance, that embracing the <hi>Apostle,</hi> he answered him as well as he could, for weeping; <hi>So that again</hi> (sayes the Hystorian) <hi>he seem'd to be Baptized with Tears, The Shaking the Hand only omitted.</hi>
             </p>
             <p>Whether this Story be true or Fabulous, makes nothing to the purpose, but what I ob<g ref="char:EOLhyphen"/>serve is, that this Ordinance was, in those Ear<g ref="char:EOLhyphen"/>ly Centuries, administred by <hi>Shaking the Hand,</hi> consequently not by <hi>Dipping</hi> or <hi>Plunging:</hi> (he could not be dipt in his Tears) but by <hi>Affusion,</hi> or <hi>Aspersion</hi>; unto which that gesture is neces<g ref="char:EOLhyphen"/>sary.</p>
             <p>I shall not weary your patience with the
-<pb n="34" facs="tcp:002215_0032_0FDACF5288CBF400"/>
+<pb n="34" facs="unknown:002215_0032_0FDACF5288CBF400"/>
 many other Authorities of the <hi>Ancients,</hi> that might here be Introduced; but only observe to you, That our Author himself brings in <hi>Origen,</hi> one of the most capable Judges among them all) rendring the word <hi>(BEBAMMENON) Baptized,</hi> in <hi>Rev.</hi> 19.13. By <hi>ERANTISME<g ref="char:EOLhyphen"/>NON, Sprinkled,</hi> But rather than vail to the Authority of this Father, and of the <hi>Syriac</hi> and <hi>Ethiopic</hi> Versions, which also render it so, He would fain believe <hi>Page</hi> 181. That the Text it self is wrong, and that the word there has been altered. But why so? is there any Copy of the <hi>New Testament</hi> in the World, to be found, that has any other Reading, different from the vulgar? no! But how is it possible for <hi>Origen</hi>
                <g ref="char:punc">▪</g> and those Early Versions to understand the word otherwise, than he does, or of any Larger signi<g ref="char:EOLhyphen"/>fication?</p>
             <p>You see, <hi>Sir,</hi> what strange Refuges a Disperate Cause must have, that Men will rather suppose a Mistake in the Scripture, than in themselves.</p>
@@ -595,14 +596,14 @@ many other Authorities of the <hi>Ancients,</hi> that might here be Introduced; 
 And for this to quote Mr <hi>Lock</hi> in the third Book of his <hi>Essay of Human Vnderstanding.</hi> Let us Look into him and see what he says. <hi>Book</hi> 3 <hi>Chap.</hi> 9 <hi>S.</hi> 4 <hi>That then</hi> (says he) <hi>that makes Doubtful<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ess, and uncertainty in the Signification of some more than other
-<pb n="33" facs="tcp:002215_0033_0FDACF53AAAB5AE8"/>
+<pb n="33" facs="unknown:002215_0033_0FDACF53AAAB5AE8"/>
 Words, is the difference of Ideas, they stand for.</hi> He tells us again <hi>Book</hi> 3. <hi>Chap</hi> 7. <hi>S</hi> 4. <hi>In the</hi> He<g ref="char:EOLhyphen"/>brew <hi>Tongue there is a Particle consisting of but one single Letter, of which there are reackoned up, as</hi> I <hi>remember, Seventy, I'm sure above Fifty Several Significations.</hi> He goes on to Instance in our English Word BUT, of which he finds Five (and doubts not but he could if it were his Business to examine it, find a great many more) Significations.</p>
             <p>I might also observe to you, That we have some words, even in our Language, of a quite Contrary Signification, to Instance in the word <hi>Let,</hi> Sometimes used to permit, as <hi>Let me go,</hi> sometimes to hinder, as I have met with many <hi>Lets</hi> in my way.</p>
             <p>You may see by this how much his Assertions and how much his Quotations, are to be depen<g ref="char:EOLhyphen"/>ded upon.</p>
             <p>I shall now Conclude the first Controversy about the mode of <hi>Baptizing,</hi> when I have shewn you that we don't want sufficient Reason for our Mode of administring the Ordinance.</p>
             <p n="1">1. Then what is Signified by, Represented and Sealed to us, in this Ordinance, is (in Scripture) expressed by <hi>Sprinkling,</hi> and <hi>Affusion,</hi> but never by <hi>Dipping</hi> or <hi>Plunging,</hi> that I Remember. To Instance.</p>
             <p n="1">1. <hi>Baptism</hi> signifies the Washing away our Sins by the Blood of Christ, as in <hi>Acts</hi> 22, 16. <hi>Arise be Baptized and wash away thy Sins.</hi> Now the washing away our Sins by Christs Blood is fre<g ref="char:EOLhyphen"/>quently represented by <hi>Sprinkling,</hi> as 1 <hi>Pet.</hi> 1, 2.
-<pb n="34" facs="tcp:002215_0034_0FDACF54D3F972F8"/>
+<pb n="34" facs="unknown:002215_0034_0FDACF54D3F972F8"/>
                <hi>Through Sanctification of the Spirit unto Obedience, and</hi> Sprinkling <hi>of the Blood of</hi> Jesus Christ Isa. 52, 15. <hi>So shall he</hi> Sprinkle <hi>many Nations</hi> Ezek. 36 25 <hi>I will</hi> Sprinkle <hi>clean water upon you, and ye shall be clean</hi> Heb. 12, 24. <hi>And to the Blood of</hi> Sprink<g ref="char:EOLhyphen"/>ling, <hi>which speaks better than the Blood of</hi> Abel.</p>
             <p n="2">2. The signification of <hi>Baptism</hi> is the Answer of a good Conscience, as the Apostle tells us, 1 Pet. 3 21. and this is also represented by <hi>Sprink<g ref="char:EOLhyphen"/>ling</hi>; Heb. 10, 22. <hi>Having our</hi> Hearts Sprinkled <hi>from an Evil Conscience.</hi>
             </p>
@@ -613,7 +614,7 @@ Words, is the difference of Ideas, they stand for.</hi> He tells us again <hi>Bo
                <g ref="char:punc">▪</g> but if Examined, will not prove so unanswerable as Mr. <hi>Gale.</hi> pretends. I shall distinctly consider the Texts, that he Cites for that purpose.</p>
             <p>The first is <hi>Joh.</hi> 3.23. <hi>And John also was Baptizing in</hi> Enon, <hi>near to</hi> Salim, <hi>because there was much Water there.</hi> Here note,</p>
             <p n="1">1 That the words in the original are, <hi>because there was</hi> (hudata polla) <hi>Many Waters there.</hi> And Travellers assure us, that it is a place of many
-<pb n="35" facs="tcp:002215_0035_0FDACF56798FF640"/>
+<pb n="35" facs="unknown:002215_0035_0FDACF56798FF640"/>
 Springs, and therefore not likely to <hi>Dip</hi> those Multitudes in, that came there to be <hi>Baptized.</hi>
             </p>
             <p n="2">2. <hi>Iohn</hi> being in the Wilderness, there was occasion for much Water, that the multitudes which attended his Baptism might have Water for themselves, and Horses, or other Creatures (on which its probable many of them Rid thither) to Drink, Many springs of Water seem much more suitable to this purpose, than for <hi>Dipping</hi> or <hi>Plunging</hi> men.</p>
@@ -638,7 +639,7 @@ Springs, and therefore not likely to <hi>Dip</hi> those Multitudes in, that came
                </gap>mark't; any more prove their being <hi>plung<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d</hi> all over in it, than the mans Washing his Eyes in the Pool of
-<pb n="36" facs="tcp:002215_0036_0FDACF5827B511D0"/>
+<pb n="36" facs="unknown:002215_0036_0FDACF5827B511D0"/>
                <hi>Siloam Iohn.</hi> 9.7. proves his being <hi>Dipt</hi> all over. Mr. <hi>Gale</hi> Demands,
 <q>Which is most na<g ref="char:EOLhyphen"/>tural to Suppose, that the River was <hi>poured</hi> or <hi>Sprinkled</hi> on them, or they <hi>Dipt</hi> in the River?</q>
 I assume the former, <hi>Its most natural to Suppose, that the</hi> River (by a <hi>Synechdoche</hi> of a part for the whole) was <hi>poured</hi> or <hi>Sprinkled</hi> on them, as in the above Example, of the mans washing his Eyes in the Pool of <hi>Siloam.</hi>
@@ -655,14 +656,14 @@ I assume the former, <hi>Its most natural to Suppose, that the</hi> River (by a 
 Thus he. To which I may add an Instance wholly Unexceptionable; It is <hi>Ioh.</hi> 20.4 <hi>So they Ran both togather, and the other Dis<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>iple did out run</hi> Peter <hi>and came first To</hi> (Eis) <hi>the Sepulchre,</hi> Here its most certain,
-<pb n="37" facs="tcp:002215_0037_0FDACF59541236D0"/>
+<pb n="37" facs="unknown:002215_0037_0FDACF59541236D0"/>
 that it does not signify <hi>into</hi>; for in the Next Verse, the <hi>H. Ghost</hi> assures That he Went <hi>not into</hi> the sepulchre, no further than Just to Look in; <hi>v.</hi> 5. <hi>And he Stooping Down, and looking in, saw the Linning Cloathes lying</hi>; Yet <hi>went he n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t in.</hi> Many more Instances might be Produced, to shew that this Preposition. [<hi>EIS</hi>] may properly be translated <hi>unto</hi>; from this Text therefore is no<g ref="char:EOLhyphen"/>thing Evident, but that they went <hi>unto</hi> the water Our Adversaries often urge our Saviours com<g ref="char:EOLhyphen"/>ing <hi>Out</hi> Of the Water, after his <hi>Baptism,</hi> Mat. 3.16. But this is far from being to their purpose; for the Words truly translated are, he went straightway <hi>From</hi> the Water, for thus I think the Preposition (<hi>Apo</hi>) is always to be un<g ref="char:EOLhyphen"/>derstood; it answers the Latin Prepositions <hi>A, Ab, Abs,</hi> and the English <hi>from.</hi> Thus, <hi>Mat.</hi> 1.17. It is used no less than three times going, <hi>so all the generations from [Apo]</hi> Abraham to David <hi>are Fourteen generations; and from (Apo)</hi> David <hi>until the carrying away into</hi> Babylon, <hi>are Fourteen gene<g ref="char:EOLhyphen"/>rations; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> from</hi> (Apo) <hi>the Carrying away into</hi> Baby<g ref="char:EOLhyphen"/>lon, <hi>unto</hi> Christ, are <hi>Fourteen generations.</hi> Thus also, <hi>Mat.</hi> 19.8. <hi>Ap' Arches, From the Beginning.</hi> Thus <hi>Mat.</hi> 4.25. <hi>Apo tes Gallilaias, from Gallilee.</hi> And thus <hi>Acts</hi> 10.17. <hi>Behold the men which were sent From</hi> (Apo) <hi>Cornelius, &amp;c.</hi> But I need not add Instances; for this is the native and Con<g ref="char:EOLhyphen"/>stant meaning of the Word.</p>
             <p>Though Mr. <hi>Gale</hi> urges these Texts With Earnestness enough, yet when he finds this Prepo<g ref="char:EOLhyphen"/>sition Construed to his disadvantage, he Lear<g ref="char:EOLhyphen"/>nedly,
-<pb n="38" facs="tcp:002215_0038_0FDACF5B11D10900"/>
+<pb n="38" facs="unknown:002215_0038_0FDACF5B11D10900"/>
 and indeed truly argues, that <hi>Page</hi> 440, 441. Apo <hi>signifyes</hi> From, <hi>in propriety of speech.</hi> So that all Arguments from Christs, and the Eunuchs coming <hi>Out</hi> of the Water, are by his own Pleas wholly out of Doors.</p>
             <p>It is further worthy of Remark that we never Read any thing of going <hi>To</hi> the Water, or <hi>From</hi> the Water, in <hi>Baptism,</hi> Except in the Wilderness, or places distant from Inhabitants, where in all likelihood they wanted Vessels, to take up Water in.</p>
             <p>But after all, were it granted that they actually went <hi>into</hi> the Water, its no Evidence that they were <hi>Dipt</hi> or <hi>Plunged</hi> into it; they might go into the Water, and not be wet up to their Ankles.</p>
@@ -675,7 +676,7 @@ and indeed truly argues, that <hi>Page</hi> 440, 441. Apo <hi>signifyes</hi> Fro
                   <desc>•</desc>
                </gap> Gentleman of Mr. <hi>Gales</hi> Ingenuity should urge it.</p>
             <p n="2">
-               <pb n="39" facs="tcp:002215_0039_0FDACF5C928103C8"/>2. Our manner of Administring the Ordi<g ref="char:EOLhyphen"/>nance, more Imitates a Burial than theirs; the throwing Water on the <hi>Baptized,</hi> is more like throwing Earth on the Dead. Dead men don't use to be <hi>Dipt,</hi> or <hi>plunged</hi> into the ground.</p>
+               <pb n="39" facs="unknown:002215_0039_0FDACF5C928103C8"/>2. Our manner of Administring the Ordi<g ref="char:EOLhyphen"/>nance, more Imitates a Burial than theirs; the throwing Water on the <hi>Baptized,</hi> is more like throwing Earth on the Dead. Dead men don't use to be <hi>Dipt,</hi> or <hi>plunged</hi> into the ground.</p>
             <p n="3">3. Our Author gives an answer to this him<g ref="char:EOLhyphen"/>self, If he'll be tyed to the same meat as he would limit us <hi>Page</hi> 180.
 <q>All Metaphorical Passages (says he) are out of Doors, Because of their Ambiguousness, and Obscurity. </q>I'll only add,</p>
             <p n="4">4. Our Adversaries themselves do practi<g ref="char:EOLhyphen"/>cally deny their Commentary upon this Text, for the Administrator of this ordinance (among them) never <hi>Dipt</hi> but a part of the Body, nor are they but partly Buried under Water in <hi>Baptism.</hi> The Person to be <hi>Baptized</hi> goes into the Water himself above the Waste, and there<g ref="char:EOLhyphen"/>fore either partly Baptizes himself, or else nothing but his upper parts are Baptized at all.</p>
@@ -693,9 +694,9 @@ and indeed truly argues, that <hi>Page</hi> 440, 441. Apo <hi>signifyes</hi> Fro
                </gap> of the Day) <hi>Acts.</hi> 2.41. were all <hi>Dipt.</hi> The Jaylors whole Houshold were <hi>Baptized</hi> in the Dead of the night, <hi>Acts</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>.33. <hi>And was Baptized, he, and
-<pb n="40" facs="tcp:002215_0040_0FDACF5DD2AFCC58"/>
+<pb n="40" facs="unknown:002215_0040_0FDACF5DD2AFCC58"/>
 all his straightway.</hi> There is not the least proba<g ref="char:EOLhyphen"/>bility, that they went out unto any Debth of Water for it. Nor any more probability, that <hi>Paul</hi> was <hi>Dipt,</hi> as you'll see if you'll Read <hi>Acts.</hi> 9.9. And the very Text it self seems to Contra<g ref="char:EOLhyphen"/>dict the <hi>Dipping</hi> of <hi>Cornelius</hi> and his Houshold, <hi>Acts.</hi> 10.47. <hi>Can any man forbid Water, that these should not be Baptized?</hi> He does not say, who shall forbid them going to the Water, in order to be <hi>Baptized,</hi> But; <hi>Who shall forbid Water,</hi> (that is the bringing of Water) for that purpose. <hi>Finally,</hi> the Degree of the Washing is not any thing Essential to the Right administration of the Ordinance, any more than the quantity of the Bread and Wine, in the Lords Supper. Which may be Illustrated by transcribing <hi>Ioh.</hi> 13.8, 9, 10. <hi>Peter said unto him, Thou shalt never wash my Feet; Iesus answered him. If I wash thee not, thou hast no part with me,</hi> Simon Peter <hi>saith unto him, Lord, not my Feet only, but also my Hands and my Head; Jesus saith unto him, He that is washed, needeth not Save to wash his Feet, but is clean Every whit.</hi> Though our Saviour did not Institute this Ceremony of Washing their Feet; as a standing Sacrament, yet he did thereby put them in mind of the necessity of their being washed in his Blood, from the Pollution of Sin, as is evident from his saying, They had Else no part with him. And we see that washing but a part of the Body, did sufficiently signify the Sanctification of the whole Man; and why then washing a part of the Body in <hi>Baptism,</hi>
-               <pb n="41" facs="tcp:002215_0041_0FDACF5F53718230"/>
+               <pb n="41" facs="unknown:002215_0041_0FDACF5F53718230"/>
 does not sufficiently Signify the Cleansing of the whole Man, our Adversaries are accountable.</p>
             <p>Thus I have, as breifly as the Task you Im<g ref="char:EOLhyphen"/>posed upon me, would allow, dispatched the first part of the Controversy.</p>
             <p>HAving finished my <hi>Remarks</hi> (I hope to your Satisfaction) on the <hi>First,</hi> it is time to Consider the <hi>second,</hi> and principal Article in Dispute; which, Refers to the subject of <hi>Baptism.</hi>
@@ -707,7 +708,7 @@ does not sufficiently Signify the Cleansing of the whole Man, our Adversaries ar
 In this Indeed was his prudence very Considerable, for as often Baffled as they have been they Remain yet too powerfull for him to abide in the field.</p>
             <p>He proceeds to Lay the Foundation of a long, and triumphant Harrangue, by telling us, <hi>Pag.</hi> 221. That Mr. <hi>Wall</hi>
                <q>very freely allows, that it can't be made appear from the Scriptures,
-<pb n="42" facs="tcp:002215_0042_0FDACF60D22687B8"/>
+<pb n="42" facs="unknown:002215_0042_0FDACF60D22687B8"/>
 that Infants are to be <hi>Baptized.</hi>
                </q> Were this true, Mr. <hi>Wall</hi> had indeed given up the Cause, and made a voluntary offer of the Lawrels of Victory, to his Adversary:
 But tho' he does most seriously, and frequently affirm, it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -718,11 +719,11 @@ But tho' he does most seriously, and frequently affirm, it, <gap reason="illegib
             <p>I dare not, indeed, affirm, That there is no such passage in <hi>Mr. Walls</hi> Book, (I not having seen it) But am sure that the Passages quoted, fall so very far short of any such Concession, that there can't be modestly any such Construction (unless by a far fetch't Innuendo) put upon them; And I am ready to Conclude, that if <hi>Mr. Wall</hi> had said it, our Author would not have been so tender of him, as not to transcribe it.</p>
             <p>He indeed brings in <hi>Mr. Wall</hi> saying, <hi>That there is no particular Direction given, what to do, with Reference to the Children of those that Received the faith.</hi> And that <hi>among all the Persons, that are Recorded as Baptized by the Apostles, there is no Ex<g ref="char:EOLhyphen"/>press mention made of any Infant, &amp;c.</hi> But what is this like acknowledgeing that it can't be made appear from the Scriptures, that Infants are to he Baptized? Much may be made appear from Scripture, that is not Expresly mentioned there, as the Admission of Women unto the Lords Supper, the Change of the Sabbath, and the Baptism even of the Apostles themselves, &amp;c.</p>
             <p>
-               <pb n="43" facs="tcp:002215_0043_0FDACF62F06FCBA8"/>It is a Ruled Case, That good Consequences drawn from Scripture, are as much to be Relyed on, as the Express words of it.</p>
+               <pb n="43" facs="unknown:002215_0043_0FDACF62F06FCBA8"/>It is a Ruled Case, That good Consequences drawn from Scripture, are as much to be Relyed on, as the Express words of it.</p>
             <p>Did not our Lord prove the Resurrection, by Consequences from Scripture? <hi>Mat.</hi> 22.31. Did not the <hi>Apostle</hi> use Consequential Reasoning, when he argues from <hi>Deut.</hi> 25.4. (<hi>Thou shalt not muzzle the Mouth of the Ox that treadeth forth the Corn</hi>) to the maintenance of the Gospel Mini<g ref="char:EOLhyphen"/>sters, 1 <hi>Cor.</hi> 9.9? And does he not use Conse<g ref="char:EOLhyphen"/>quential Arguments, when he argues from the Priesthood of <hi>Melchizedec,</hi> to the Priest-hood of <hi>Christ, Heb</hi> 7. <hi>per totum? Cum multis aliis</hi> you hence see, that what is not Expresly mentioned in the Scriptures, may be evidently enough proved from them. And tho' <hi>Mr. Wall</hi> grants, that there is no Express mention of Infants, he may be far enough from acknowledging that it can't be proved from Scripture, that Infants should be Baptized. I insist more particularly here, to shew you the disingenuity of Mr. <hi>Gale</hi> in this Case, and how little he is to be depended upon, that will thus venture to say any thing; as well as to defect the vanity of their common Outcry, <hi>Let there be Express Scripture produced, that Infants should be Baptized.</hi>
             </p>
             <p>But it is not so material whether <hi>Mr. Wall</hi> allows, or dissallows this Allegation, as whether it is true in fact; which if it appears to be, (as our Author would persuade us it is) our Cause, I must confess, is Expiring, and must quickly give up the Ghost. But I find so little grounds
-<pb n="44" facs="tcp:002215_0044_0FDACF63D3C1C128"/>
+<pb n="44" facs="unknown:002215_0044_0FDACF63D3C1C128"/>
 of Dependance upon <hi>Mr. Gales</hi> Word, that <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> rather Examine the Cause, than strike to his bold <hi>Ipse Dixit</hi>; And if upon a fair Examina<g ref="char:EOLhyphen"/>tion, it does appear from Scripture, that Infants ought to be Baptized, He may Order a <hi>Deleatur</hi> upon his whole 6<hi>th</hi> Letter, for the Lawrels he so hastily Snatches up will appear to be withered, and his whole Triumphant Cant, but a vain Boast. But its time to come into the Enquiry.</p>
@@ -730,7 +731,7 @@ of Dependance upon <hi>Mr. Gales</hi> Word, that <gap reason="illegible" resp="#
                <hi>Arg.</hi> 1. If Infants have <hi>Faith,</hi> they are quali<g ref="char:EOLhyphen"/>fyed for, and ought to enjoy the Ordinance of <hi>Baptism.</hi> That <hi>Faith</hi> qualifyes for <hi>Baptism,</hi> is what I think no <hi>Antipoedobaptist</hi> will deny. The Consequence is Clear, and unexceptionable, see <hi>Mark.</hi> 16.16. <hi>Acts.</hi> 16.31.33. It only Re<g ref="char:EOLhyphen"/>mains to prove from Scripture, that Infants have <hi>Faith</hi>; which you shall now see done, I hope, to your Satisfaction.</p>
             <p>I freely own, that the Acts, and Exercises of <hi>Faith</hi> they are no more capable of, than the Acts, and Exercises of <hi>Reason</hi>; but as all men will allow them the Habits of <hi>Reason</hi>; I can't see why they should deny them the Habits of <hi>Faith.</hi> I'm sure there is the same Cause to Deny their being Rational Creatures, as Believers. And our Adversaries will hardly be able to tell us why they mayn't, (the want of the Excercise of Reason notwithstanding) as well be Belie<g ref="char:EOLhyphen"/>vers, as Covenant-Breakers; as Uncircumcised Infants are styled, <hi>Gen.</hi> 17.14. But this won't Remain Doubtful, when you Consider,</p>
             <p n="1">1. That they are Expresly styled <hi>Believers</hi> in
-<pb n="45" facs="tcp:002215_0045_0FDACF65525F9918"/>
+<pb n="45" facs="unknown:002215_0045_0FDACF65525F9918"/>
 Christ, by him whose Authority must not be called in question. <hi>Mat.</hi> 18.2, 6. <hi>And Iesus called a little Child unto him, and set him in the midst of them, and said, Whoso shall offend one of these <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ittle Ones, which believe in me, &amp;c.</hi> This is plain and full Testimony; and the Objections commonly thrown in the way; to evade the force hereof, are but light, and trivial.</p>
@@ -740,7 +741,7 @@ Christ, by him whose Authority must not be called in question. <hi>Mat.</hi> 18.
                   <desc>•</desc>
                </gap>n those that are little in their own Eyes, those that are humble, <hi>&amp;c.</hi> But this mistake is Evident enough, only by comparing the Consequent with the Antecedent. One of <hi>these Little Ones,</hi> which believe in me. What lit<g ref="char:EOLhyphen"/>tle ones? See verse 2<hi>d.</hi> It was one of those little Ones, which Christ took in his Hands, and set in the midst of them, which was a <hi>Little Child.</hi> It does not any thing strength the Objection, that our Lord in the 3<hi>d</hi> and 4<hi>th</hi> verses, urged the neces<g ref="char:EOLhyphen"/>sity of becoming as little Children, and as this Child, preparatory to our Entring the Kingdom of Heaven. This indeed refers to the Meekness, Humility, <hi>&amp;c.</hi> necessary to all his Disciples; But observe, that in the 3<hi>d</hi> and 4<hi>th</hi> verses, he does not tell them that they must become such little Child<g ref="char:EOLhyphen"/>ren or such a Child as this, (as the <hi>Antipoedabaptists</hi> in <hi>Germany</hi> Dreamed, and therefore went playing about the streets with Rattles, <hi>&amp;c.</hi> But <hi>as</hi> little Children and <hi>as</hi> this Child.</p>
             <p>The Disciples had been Contending among themselves, who should be the greatest, as you'll see in the parallel Text, <hi>Mark</hi> 9.34. He there<g ref="char:EOLhyphen"/>fore takes a little Child in his arms, as a fit pat<g ref="char:EOLhyphen"/>tern
-<pb n="46" facs="tcp:002215_0046_0FDACF66D4491998"/>
+<pb n="46" facs="unknown:002215_0046_0FDACF66D4491998"/>
 to teach them Humility; and tells them, they must become as this little Child, &amp;c.</p>
             <p n="2">2<hi>dly,</hi> As little Children affect not Dominion, nor Contend for Prerogative or Priority; As they are not given to Boast and Glory, nor pre<g ref="char:EOLhyphen"/>fer themselves to others; As they are not Haughty and Proud; As they are Meek, not Angry, Malicious, Vindictive; As they wholly depend upon their Fathers care and providence, &amp;c. So must you be like them, &amp;c. Whereas in the Text Insisted on, there is no comparison taken from the Child, the Occasion of the Discourse, as in the other Verses; But an Im<g ref="char:EOLhyphen"/>mediate Reference to that, and such like little Children: One of <hi>These</hi> little Children. More<g ref="char:EOLhyphen"/>over,</p>
             <p>The Scope and drift of our <hi>Lords</hi> Discourse in the 5<hi>th</hi> and 6<hi>th</hi> Verses, will help to Enlighten this. Our <hi>Lord</hi> is there shewing how much he values, and how highly R<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -749,7 +750,7 @@ to teach them Humility; and tells them, they must become as this little Child, &
             <p>It is also objected, That this Child, tho' little, might be grown to some Years, and so be capa<g ref="char:EOLhyphen"/>ble of Actual Faith. To which I answer,</p>
             <p n="1">1. He took the Child in his Arms, as <hi>Mark.</hi> assures us, <hi>Cap.</hi> 9 <hi>v.</hi> 35. and it is therefore most Reasonable to conclude, that it was but in its Infancy.</p>
             <p n="2">2. The End of our Saviours presenting them
-<pb n="47" facs="tcp:002215_0047_0FDACF689E01FDD8"/>
+<pb n="47" facs="unknown:002215_0047_0FDACF689E01FDD8"/>
 with that Emblem of <hi>Humility, Meekness,</hi> &amp;c. was lost, if it was a Child arrived to an age capable of the Acts of <hi>Reason</hi> and <hi>Faith</hi>; for you are not so unacquainted with such little Chil<g ref="char:EOLhyphen"/>dren, as to be Ignorant, how Proud, Pievish, Contentious, &amp;c. they are, more I think at such an age, than any other.</p>
             <p>If it be objected, That he called him, there<g ref="char:EOLhyphen"/>fore he was not an Infant. I answer, He might call him in his nurses Arms, and it seems most probable that he did, by the forecited parrallel Text, <hi>Mark.</hi> 9.35. Where its said <hi>he took him in his Arms.</hi> But if otherwise, an Infant in Un<g ref="char:EOLhyphen"/>derstanding, may be capable to go alone, and come when called.</p>
             <p>As to the Objection, <hi>That Infants can't be Of<g ref="char:EOLhyphen"/>fended,</hi> Its too trivial to be taken notice of. Can't they be Reproached. Vilify'd, Scandalized, (as the Original Greek Word <hi>Scandalise,</hi> properly signif<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -757,7 +758,7 @@ with that Emblem of <hi>Humility, Meekness,</hi> &amp;c. was lost, if it was a C
                </gap>es)? Did <hi>Hazael</hi> offer no offence, or In<g ref="char:EOLhyphen"/>jury to the Infants that he dashed to pieces, as was prophesyed of him, in 2 <hi>Kings</hi> 8.12.</p>
             <p>Our Adversaries Practice indeed makes evident their belief, that Infants can't be offend<g ref="char:EOLhyphen"/>ed. This threatning of our <hi>Lord</hi> gainst those that do offend these little Ones, would Else make them tremble, when they deny them the Ordinances of the Gospel, a Station in the Church, and <hi>Faith</hi> in <hi>Christ,</hi> and Rank them among the Heathen.</p>
             <p n="2">2<hi>dly.</hi> Infants Either have <hi>Faith</hi> (habitual at least) or they can't be Saved, <hi>He that Believeth
-<pb n="48" facs="tcp:002215_0048_0FDACF6A2C31C050"/>
+<pb n="48" facs="unknown:002215_0048_0FDACF6A2C31C050"/>
 not shall be damned, Mark</hi> 16, 16. <hi>Ioh.</hi> 3.18, 36. It would be most Uncharitable Cruelty, as well as Express Contradiction to the Scriptures, to Deny Salvation unto all Infants, and to Damn them by whole-sale. And if they are saved without <hi>Faith,</hi> it must be in some way that the Gospel has never proposed; Nay, it must be in away directly Repugnant to the terms of Sal<g ref="char:EOLhyphen"/>vation, proposed in the Gospels. Can we any where find Salvation Exhibited to Graceless Infidels? And such are all Infants and such to be Esteemed, if without <hi>Faith.</hi>
             </p>
             <p>Are they Sanctifyed and made Gracious, or do they all continue under the Pollution and De<g ref="char:EOLhyphen"/>filement of Original sin? If the former, they must have <hi>Faith,</hi> the Sanctifying Grace and Root of all other Graces. If the Latter, they cannot be Saved, for no Unclean thing shall Enter into the Kingdom of Heaven. They must inevitably fall within the Reach of this <hi>Dilemma,</hi> Let then consult what Answer they will; For Infants must be Either Clean or Unclean, Sanctifyed or Polluted; If Sanctifyed, it must be by the Infusion of Grace, and Consequently of <hi>Faith</hi>; If Unsanctifyed, they can't be saved. I might yet prosecute this Argument, by shew<g ref="char:EOLhyphen"/>ing you,</p>
@@ -766,7 +767,7 @@ not shall be damned, Mark</hi> 16, 16. <hi>Ioh.</hi> 3.18, 36. It would be most 
                   </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Ghost</hi> will not take up his Dwelling, in an Impure and Unsanctify'd
-<pb n="49" facs="tcp:002215_0049_0FDACF6B737E8690"/>
+<pb n="49" facs="unknown:002215_0049_0FDACF6B737E8690"/>
 Mansion. But I believe what has been said will yield you Satisfaction.</p>
             <p>What tho' we can't understand the Unsear<g ref="char:EOLhyphen"/>cheable Methods of the <hi>Holy Spirit,</hi> in begetting this Grace in them, He that calls them <hi>Believers,</hi> and sayes, of such are the Kingdom of Heaven, knows how to give them <hi>Faith,</hi> and a Title to his Kingdom. But I proceed to<g ref="char:punc">▪</g>
             </p>
@@ -774,7 +775,7 @@ Mansion. But I believe what has been said will yield you Satisfaction.</p>
                <hi>Argument</hi> 2. They that are in the Covenant of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>race, have a Right to have the Covenant Sealed to them by Baptism. But Infants of Believers are in the Covenant of Grace. This whole Argument receives sufficient Confirma<g ref="char:EOLhyphen"/>tion, from that <hi>Acts</hi> 2.38, 39. <hi>Then</hi> Peter <hi>said unto them, Repent, and be Baptized, every one of you, in the name of Iesus Christ; for the Remission of Sins, &amp;c.</hi> For <hi>the Promise is unto you, and to your</hi> Children. The Major of this Argument is plain from the Words, The Tittle they had to <hi>Baptism,</hi> and the Grounds of their being exhor<g ref="char:EOLhyphen"/>ted to it, was their Interest in the Covenant Promises; <hi>Be Baptized; for the Promise is unto you.</hi> And that Infants are in the Covenant of Grace, is no less Evident, <hi>For the Promise is unto you, and your</hi> Children: What can be plainer? And by the way, you may observe, That Infants have the same Claim to <hi>Baptism,</hi> as the Adult. By the Apostles argument in this Text, they are Exhorted to Be <hi>Baptized,</hi> in Order to receive Remission of Sins, and the <hi>Holy Ghost,</hi> which Exhortation is pressed upon them, from their Interest in the Promise, as an Enforcing Motive
-<pb n="50" facs="tcp:002215_0050_0FDACF6CD49F53D0"/>
+<pb n="50" facs="unknown:002215_0050_0FDACF6CD49F53D0"/>
 and Encouragemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, and as a Reason why they ought to be <hi>Baptized</hi> Infants have the like Interest in the Promise (<hi>The Promise is to you, and to your Children</hi>) and therefore by Irresistible Consequence, the like Claim to <hi>Baptism.</hi>
@@ -786,7 +787,7 @@ and Encouragemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>
                <g ref="char:EOLhyphen"/>factorily strengthen the Argument, what fol<g ref="char:EOLhyphen"/>lows (as you'l be Convinced) will fall nothing short of Demonstration.</p>
             <p>That the <hi>Abrahamitical Covenant</hi> did include,
-<pb n="51" facs="tcp:002215_0051_0FDACF6E54A47068"/>
+<pb n="51" facs="unknown:002215_0051_0FDACF6E54A47068"/>
 and was Sealed unto Infants, as well as the Adult, none can doubt, that will Read the 17 Chap. of <hi>Gen.</hi> and that it Extends in the same Latitude to Believers under the Gospel, is Evident, in that <hi>Abraham</hi> was made the <hi>Father of many Na<g ref="char:EOLhyphen"/>tions,</hi> Gen. 17.5. of <hi>Gentiles,</hi> as well as <hi>Iews,</hi> and therefore the Covenant with him and his seed, Extended in the same Latitude to his Gentile seed, as to his seed after the flesh. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Covenant was made with, and sealed to his natural Progeny, and their Infant seed, Even so to the Believing <hi>Gentiles,</hi> and their Infant seed. The Apostle Confirms this, in <hi>Gal.</hi> 3.14. <hi>The blessing of</hi> Abraham <hi>comes on the</hi> Gentiles <hi>through Iesus Christ.</hi>
@@ -795,22 +796,22 @@ and was Sealed unto Infants, as well as the Adult, none can doubt, that will Rea
             <p n="1">1. There was not a fourth part of <hi>Abrahams</hi> Posterity, (none but the Progeny of his Grand<g ref="char:EOLhyphen"/>son <hi>Iacob</hi>) that were to Expect, or ever did Enjoy a portion in the Land of <hi>Canaan.</hi>
             </p>
             <p n="2">2. There is much more implyed in the very words of the Covenant, as in the 7<hi>th</hi> Verse of the fore-cited Chap. of <hi>Gen. And I will Establish my Covenant between me and thee, and thy seed after thee in their Generations, for an</hi> Everlasting <hi>Covenant, to be a</hi> God <hi>unto thee, and thy seed after thee.</hi> The Covenant was an <hi>Everlasting Cove<g ref="char:EOLhyphen"/>nant,</hi> but the Land of <hi>Canaan</hi> was not their ever<g ref="char:EOLhyphen"/>lasting Portion. The Tenor of the Covenant was
-<pb n="52" facs="tcp:002215_0052_0FDACF707628E228"/>
+<pb n="52" facs="unknown:002215_0052_0FDACF707628E228"/>
 That he would be a God unto <hi>Abrah.</hi> and his seed. The promise of the Land of <hi>Canaan</hi> was but a Subjoined Article of Divine favour to, and Care of him and his. This is further Illu<g ref="char:EOLhyphen"/>strated from <hi>Deut.</hi> 29.10, 11.13. (where God Renews this Covenant with the Posterity of <hi>Abraham,</hi> and their little Ones) <hi>Ye stand this Day all of you, before the Lord your God, your Captains of your Tribes, your Elders and your Officers, with all the men of Israel, your</hi> Little Ones, &amp;c. <hi>that he may establish thee to Day, for a people unto himself; and that he may be unto thee</hi> a God, <hi>as he hath said unto thee, and as he hath sworn unto thy Fathers, to</hi> Abraham, <hi>to</hi> Isaac, <hi>and to</hi> Jacob.</p>
             <p>It may be here Remark't, that God takes their <hi>Little Ones</hi> into Covenant with him, as well as themselves; and that the Blessings of the Covenant made with them, and their Fathers, <hi>Abraham, Isaac</hi> and <hi>Iacob,</hi> were no less than the enjoying <hi>God</hi> himself, as their Portion. This was the Covenant, whereof Circumcision was a Seal.</p>
             <p n="3">3. This Covenant could not be a Promise only of the Land of <hi>Canaan,</hi> in that the Blessings thereof Extend to believing <hi>Gentiles,</hi> as well as <hi>Iews,</hi> who are the seed of <hi>Abraham</hi> after the Spirit, and Heirs of this very Promise, or Co<g ref="char:EOLhyphen"/>venant, that was made with him, as was before noted, and is very plain from <hi>Gal.</hi> 3.29. <hi>And if ye be Christs, then are ye</hi> Abrahams <hi>seed, and heirs according to the Promise.</hi> Heirs of what? Of the Land of <hi>Canaan?</hi> No Surely! we have no Inter<g ref="char:EOLhyphen"/>est
-<pb n="53" facs="tcp:002215_0053_0FDACF71521DD140"/>
+<pb n="53" facs="unknown:002215_0053_0FDACF71521DD140"/>
 there; But there are Richer Blessings in store, for those that are Members of Christ, <hi>viz.</hi> their having God himself, their Portion for Ever.</p>
             <p>If I have been too long in answering this Trifling Objection, you know where to Lay the fault, I'll conclude this Argument by only adding,</p>
             <p n="1">1. That either Infants are yet Included in the Covenant made with <hi>Abraham,</hi> and his Spiri<g ref="char:EOLhyphen"/>tual seed, both <hi>Iews</hi> and <hi>Gentiles,</hi> and ought to have it Sealed unto them, as formerly, or else it lies at our Adversaries Doors, to shew us from Scripture, How, Why, and When they were cut off from the Covenant, and the an<g ref="char:EOLhyphen"/>nexed Priviledges.</p>
             <p n="2">2. That either Infants have an Interest in the Covenant, and a just claim to have it Sealed unto them, or else the Blessings and Priviledges of the <hi>New Testament</hi> Dispensation, are far less than the Old. That the Covenant of Grace, and the Seals thereof are Blessings and Privi<g ref="char:EOLhyphen"/>ledges, none can be so hardy as to Deny: nor dare any Christian suppose, that the Evangelical Dispensation, has Lessened the Priviledges of the Faithful, Therefore the Covenant of Grace must Extend, and be Sealed to Believers, and their Infant seed. <hi>Arg.</hi> 3. And now <hi>Sir,</hi> I shall venture (not withstanding <hi>Mr. Gale</hi> would even Laugh us out of it) to argue from Cir<g ref="char:EOLhyphen"/>cumcision, and it will appear, that this so often Baffled Plea (as he calls it) will yet be able to
-<pb n="54" facs="tcp:002215_0054_0FDACF72D4EED360"/>
+<pb n="54" facs="unknown:002215_0054_0FDACF72D4EED360"/>
 bear the Shock. of their fiercest Opposition. I thus argue;</p>
             <p>If <hi>Baptism</hi> comes in the Room and stead of <hi>Circumcision,</hi> It ought to be administred to Infants, as Circumcision was. This is a Clear Consequence, and admits of no Debate. To say, that this is not Commanded, as that was, is a begging the Question; for if it succeeds in the Room of Circumcision, it must be used in the Room thereof, and then certainly be ad<g ref="char:EOLhyphen"/>ministred to the same Subjects. It only there<g ref="char:EOLhyphen"/>fore lies before us to prove that <hi>Baptism</hi> does succed unto, and come in the Room and stead of Circumcision, which will receive clear evi<g ref="char:EOLhyphen"/>dence from these Scriptures.</p>
             <p>I shall first turn to <hi>Col.</hi> 2.11, 12. <hi>In whom also they are Circumcised, with the Circumcision made without hands, in putting off the Body of the Sins of the Flesh, By the Circumcision of Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ist; Buried with him in Baptism.</hi> The Apostle in the fore-go<g ref="char:EOLhyphen"/>ing verse, tells them, That <hi>they were compleat in Christ</hi>; But it might something plausibly be objected, That they could not be compleat, that wanted Circumcision, the Seal of the Covenant, and Symbol of their Covenant Right. He there<g ref="char:EOLhyphen"/>fore as a Sufficient matter of Satisfaction to 'em in that point, tells them, That they had (1.) the thing signifyed by Circumcision, <hi>viz.</hi> the <hi>Circumcision</hi> of the Heart. (2) That they had the <hi>Covenant</hi> Sealed by another Ordinance, that (since the abrogation of Circumcision) suc<g ref="char:EOLhyphen"/>ceeded to, and was in the Room and Place of,
-<pb n="55" facs="tcp:002215_0055_0FDACF74709AC3A8"/>
+<pb n="55" facs="unknown:002215_0055_0FDACF74709AC3A8"/>
 the former. They had not only the Circumci<g ref="char:EOLhyphen"/>sion made without Hands; but were also Buried with Christ in Baptism. This is (I think) the plain and natural meaning of the words.</p>
             <p>Let us next look into <hi>Gal.</hi> 3.27.29. <hi>For as many of you as have been Baptized into Christ, have put on Christ, and if they be Christs than are they</hi> Abra<g ref="char:EOLhyphen"/>hams <hi>Sued and Heirs according to the Promise.</hi> Hence I argue</p>
             <p>If <hi>Baptism</hi> be now a Sign and Seal of the very same thing whereof <hi>Circumcision</hi> was appointed a Sign and Seal, under the <hi>Old Testament</hi> Dispensa<g ref="char:EOLhyphen"/>tion; Then <hi>Baptism</hi> comes in the Room and stead of <hi>Circumcision</hi>; The Consequence is c<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -819,7 +820,7 @@ the former. They had not only the Circumci<g ref="char:EOLhyphen"/>sion made wit
             <p>Acts 2 41. <hi>Then they that gladly Received his Word were Baptised, and the same Day were added unto them about Three Thousand Souls.</hi> From whence I argue.</p>
             <p>If <hi>Baptism</hi> be a Note and Symbol of our being Received into, and being Members of the Church, then it Succeeds in the Room and stead of <hi>Cir<g ref="char:EOLhyphen"/>cumcision.</hi> The Consequence is clear, in that Circumcision was a Symbol thereof, see <hi>Exod<g ref="char:punc">▪</g>
                </hi> 12.43.44. <hi>There shall no stranger Eat thereof, but every Man Servant that is bought for Money, when
-<pb n="56" facs="tcp:002215_0056_0FDACF75D2286448"/>
+<pb n="56" facs="unknown:002215_0056_0FDACF75D2286448"/>
 thou hast Circumcised him, then shall he eat thereof</hi>; So <hi>v.</hi> 14 <hi>And when a Stra<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ger shall sojourn with thee and will keep the Passover unto the Lord, let all his Males be Ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -833,7 +834,7 @@ thou hast Circumcised him, then shall he eat thereof</hi>; So <hi>v.</hi> 14 <hi
             <p>The Objections raised against this Doctrine, are very light and trivial, as,</p>
             <p n="1">1. They Object, That Circumcision was always performed on the <hi>Eighth Day,</hi> and therefore <hi>Bap<g ref="char:EOLhyphen"/>tism,</hi> if Successive thereto, must also be Admini<g ref="char:EOLhyphen"/>stred then.</p>
             <p>
-               <pb n="57" facs="tcp:002215_0057_0FDACF77564B0418"/>
+               <pb n="57" facs="unknown:002215_0057_0FDACF77564B0418"/>
                <hi>Ans.</hi> That the Ordinances differ in Circum<g ref="char:EOLhyphen"/>stances, is no Argument that this does not suc<g ref="char:EOLhyphen"/>ceed, and supply, the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ace of that. The <hi>Lords Supper</hi> diff<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -858,7 +859,7 @@ thou hast Circumcised him, then shall he eat thereof</hi>; So <hi>v.</hi> 14 <hi
                   </gap> I will establish my Covenant between me and thee<g ref="char:punc">▪</g> and thy seed</hi> (Indefinitely) <hi>after thee, to be a</hi> GOD <hi>unto thee, and thy seed</hi> (Indefinitely, Female as well as Male) <hi>after thee.</hi> Altho' none but the Males bare the Seal of this Covenant in the flesh: But the Dispensation now, is vastly different; they were then but one Family, the Posterity of one Man; But now the Gospel and Covenant <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>f Grace, is promulgated unto all the
-<pb n="58" facs="tcp:002215_0058_0FDACF79199D57B0"/>
+<pb n="58" facs="unknown:002215_0058_0FDACF79199D57B0"/>
 Families of the Earth: Circumcision sealed the Covenant unto the seed of <hi>Abraham</hi> after the flesh, and assured both Male and Female; that God would be their God, and Portion; upon their accepting of him, and living to him; But <hi>Bapt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>sm</hi> now, Seals that Covenant to none, But the <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -873,7 +874,7 @@ Families of the Earth: Circumcision sealed the Covenant unto the seed of <hi>Abr
             <p>
                <hi>Arg.</hi> 5. The visible Children of God, ought to be <hi>Baptized,</hi> But Infants of Believers are such. Our Adversaries don't deny, that <hi>Baptism.</hi> belongs to all the visible Children of God; If they did, they would Soon be a ground; for whence have they their Orders to make a differ<g ref="char:EOLhyphen"/>rence in Gods Visible Houshold, to withold, from some, and allow to others, their Portion of meat? And that Infants are the Children of God, I thus prove,</p>
             <p n="1">
-               <pb n="59" facs="tcp:002215_0059_0FDACF7A552B76D0"/>1. They are Either the Children of God, or the Children of the Devil. This is an awful Distribution, which divides all the Children of Men 1. <hi>Ioh.</hi> 3.10. And I am sure none can be so uncharitable<g ref="char:punc">▪</g> as to Rank the Infants of Belie<g ref="char:EOLhyphen"/>vers, among the Children of the Devil; and therefore they are visibly, in the Eyes of Cha<g ref="char:EOLhyphen"/>rity, the Children of God.</p>
+               <pb n="59" facs="unknown:002215_0059_0FDACF7A552B76D0"/>1. They are Either the Children of God, or the Children of the Devil. This is an awful Distribution, which divides all the Children of Men 1. <hi>Ioh.</hi> 3.10. And I am sure none can be so uncharitable<g ref="char:punc">▪</g> as to Rank the Infants of Belie<g ref="char:EOLhyphen"/>vers, among the Children of the Devil; and therefore they are visibly, in the Eyes of Cha<g ref="char:EOLhyphen"/>rity, the Children of God.</p>
             <p n="2">2. God himself calls the Children of his Cove<g ref="char:EOLhyphen"/>nant People his Children, <hi>Ezek.</hi> 16.20. <hi>More<g ref="char:EOLhyphen"/>over, thou hast taken my Sons and my Daughters, which thou hast born unto me, &amp;c.</hi> which in Vers. 21. he calls <hi>my Children.</hi>
             </p>
             <p n="3">3. <hi>Mr. Gale</hi> with an Extensive Charity, acknowledges this, when he Sayes, <hi>Page</hi> 421.
@@ -887,7 +888,7 @@ I shall not now take time to Examine this bold Assertion, but only observe, That
             <p>And that Infants have a Title to the <hi>Kingdom of Heaven,</hi> is plain from <hi>Luk.</hi> 18 16. <hi>Suffer l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ttle Children to come unto me, and forbid them not, for
-<pb n="60" facs="tcp:002215_0060_0FDACF7BD234B4A0"/>
+<pb n="60" facs="unknown:002215_0060_0FDACF7BD234B4A0"/>
 of suth is the Kingdom of Heaven.</hi> Whether the Church Militant or Triumphant, is here in<g ref="char:EOLhyphen"/>tended, by the <hi>Kingdom of Heaven,</hi> no waies affects the Arguments; for if they have a Title to Either, it ought to be Sealed in <hi>Baptism.</hi>
             </p>
             <p>If any Object, <hi>That these little Children might not be Infants, but grown to some years of Vnderstand<g ref="char:EOLhyphen"/>ing.</hi> The fore-going Verse Confutes them; for they are there called Infants [<hi>Brephe</hi>] Which necessarily signifies very young Infants, and is well Rendred, 1 <hi>Pet.</hi> 2.2. <hi>New born Babes.</hi> We have the same Word also <hi>Acts.</hi> 7.19. Rendred <hi>Young Children,</hi> and young they were; For it Refers to the bloody decree of <hi>Pharaoh,</hi> who order'd all the male Children of the <hi>Hebrews</hi> to be cast out, and Slain from the womb.</p>
@@ -901,7 +902,7 @@ But he discovers his in<g ref="char:EOLhyphen"/>advertency; For who-ever suppose
                   </gap>lean, but now are they Holy.</hi>
             </p>
             <p>
-               <pb n="61" facs="tcp:002215_0061_0FDACF7E4FA1A5E0"/>This by the joynt Suffrage of Expositors, is allowed to be a Foederal Holiness, the <hi>Antipe<g ref="char:EOLhyphen"/>dobaptists</hi> only Excepted, and they have but a desperate Shift to Evade it by so Ridiculous, that one would have thought <hi>Mr. Gales</hi> Inge<g ref="char:EOLhyphen"/>nuity would not have Suffered him to have Espoused it: But he must say something</p>
+               <pb n="61" facs="unknown:002215_0061_0FDACF7E4FA1A5E0"/>This by the joynt Suffrage of Expositors, is allowed to be a Foederal Holiness, the <hi>Antipe<g ref="char:EOLhyphen"/>dobaptists</hi> only Excepted, and they have but a desperate Shift to Evade it by so Ridiculous, that one would have thought <hi>Mr. Gales</hi> Inge<g ref="char:EOLhyphen"/>nuity would not have Suffered him to have Espoused it: But he must say something</p>
             <p>Their Evasion is, That the Holiness here spoken of is <hi>Legitimacy,</hi> and that if the unbe<g ref="char:EOLhyphen"/>lieving Parent is not Sanctifyed by the Parent, that is a Believer, the Children are <hi>Bastards. Mr. Gales</hi> Gloss upon this Text, is, That the Apostle is here Correcting a mistake among these primitive Christians, who were ready to sup<g ref="char:EOLhyphen"/>pose, that their Proselytism dissolved all natu<g ref="char:EOLhyphen"/>ral Tyes, and made it unlawful for a man any longer to Co-habit with his former Wife, she being no longer accounted his Wife.
 <q>What can be more proper and natural (says he) than to Suppose, <hi>St. Paul</hi> is Endeavouring to put better thoughts into his Conv<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -915,7 +916,7 @@ But he discovers his in<g ref="char:EOLhyphen"/>advertency; For who-ever suppose
 Thus he. To which I <hi>Answer.</hi>
             </p>
             <p n="1">1. That he must have a strange art of Per<g ref="char:EOLhyphen"/>swasion,
-<pb n="62" facs="tcp:002215_0062_0FDACF7EC5782198"/>
+<pb n="62" facs="unknown:002215_0062_0FDACF7EC5782198"/>
 to gain Credit in this, that Children was lookt upon as <hi>Bastards,</hi> only thro' the un<g ref="char:EOLhyphen"/>equal match of their Parents, especially by those primitive Christians, who had learned from the Apostle, that <hi>the Marriage bed was undefiled.</hi> Could they think their marriage with Unbelie<g ref="char:EOLhyphen"/>vers annulled, because such were not capable of, nor qualifyed for, so Holy a Relation? If so, the greatest part of the World must be Esteemed, <hi>Fornicators</hi> and <hi>Adulterers.</hi> But I'm weary of this unintelligible Jargon. And will therefore only add,</p>
             <p n="2">2. The word <hi>Holy</hi> is not applicable to <hi>Legiti<g ref="char:EOLhyphen"/>macy,</hi> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -930,7 +931,7 @@ to gain Credit in this, that Children was lookt upon as <hi>Bastards,</hi> only 
             <p>And that under Gospel Dispensations we are Invested with the same Substantial priviledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s that the <hi>Iews</hi> have Lost by Unbelief, Receives a
-<pb n="63" facs="tcp:002215_0063_0FDACF7F9C3BB110"/>
+<pb n="63" facs="unknown:002215_0063_0FDACF7F9C3BB110"/>
 Meridian Lustre, from that <hi>Rom.</hi> 11.17. <hi>And <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> some of the branches be broken off, and thou being a wild Olive Tree, we<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -953,7 +954,7 @@ Meridian Lustre, from that <hi>Rom.</hi> 11.17. <hi>And <gap reason="illegible" 
                </gap>ain persuade us, and that Infant <hi>Baptism</hi> can be made appear from Scrip<g ref="char:EOLhyphen"/>ture; I shall therefore pass over much t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>at might have been offered for the clearing of this
-<pb n="64" facs="tcp:002215_0064_0FDACF81121A3378"/>
+<pb n="64" facs="unknown:002215_0064_0FDACF81121A3378"/>
 Cause, and only Consider the <hi>Commission</hi> of our Lord unto his Apostles, in <hi>Mat.</hi> 28.19, 20. which <hi>Mr. Gale</hi> tells us <hi>Page.</hi> 247.
 <q>Is the main Ground and Foundation of the Ordi<g ref="char:EOLhyphen"/>nance.</q>
 And tho' he would persuade us that <hi>Page</hi> 258.
@@ -972,7 +973,7 @@ I can't Depend up<g ref="char:EOLhyphen"/>on his Word, So as to take it for gran
             <p>
                <hi>Mr. Gale</hi> indeed (as was his Interest) stands up for our Translation, and something plausibly attempts to prove, that The Word always signifyes to <hi>Teach,</hi> But his Reasonings will prove Superficial Enough, when they come to be Scann'd,</p>
             <p>In the mean time, let us take it for granted, that the word does signify <hi>to make Disciples,</hi> as I have Rendred it, and then I can't see why the words mayn't be thus understood, <hi>Go make Dis<g ref="char:EOLhyphen"/>ciples of all Nations, by Baptizing them, and by
-<pb n="65" facs="tcp:002215_0065_0FDACF82920E6FC0"/>
+<pb n="65" facs="unknown:002215_0065_0FDACF82920E6FC0"/>
 Teaching of them to observe all things, that I have Commanded you.</hi> They are first ordered to make Disciples, next Directed how to do i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, <hi>viz.</hi> by <hi>Baptizing</hi> and Teaching; <hi>Baptism</hi> is the Cere<g ref="char:EOLhyphen"/>mony, or Symbol of their being Received into Discipleship, and the badge of their Christianity, as Circumcision was among the <hi>Iews,</hi> and Teaching a necessary previous Qualification to Discipleship, in all Capable Subjects.</p>
@@ -983,7 +984,7 @@ Teaching of them to observe all things, that I have Commanded you.</hi> They are
                      <desc>••</desc>
                   </gap>usate</hi> signifies to <hi>Teach,</hi> which I design particularly to Consider, and am there<g ref="char:EOLhyphen"/>fore loath to Anticipate it, in this place.</p>
             <p>But whatever is the true meaning of that Word, <hi>Infant Baptism</hi> may be proved from the <hi>Commission,</hi> as you'l be sensible, If you'l take
-<pb n="66" facs="tcp:002215_0066_0FDACF841A0FE000"/>
+<pb n="66" facs="unknown:002215_0066_0FDACF841A0FE000"/>
 notice of the Subjoyned promise, <hi>Lo I am with you alway, Even unto the End of the World.</hi> Christ is here promising his gracious Spiritual Presence unto, and his Blessing upon his Faithful Mini<g ref="char:EOLhyphen"/>sters, in the Administration of this Ordinance of <hi>Baptism,</hi> and preaching the Gospel, unto the End of the world; This Ordinance there<g ref="char:EOLhyphen"/>fore shall not Cease, until the World Ceases to be. But if Infant <hi>Baptism</hi> be not of Divine Insti<g ref="char:EOLhyphen"/>tution, I can't see how this Promise has been fulfilled. For,</p>
             <p n="1">1. Being supposed that Infant <hi>Baptism</hi> is no Ordinance of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1003,7 +1004,7 @@ notice of the Subjoyned promise, <hi>Lo I am with you alway, Even unto the End o
                   <desc>•</desc>
                </gap>erous followers in <hi>Germany</hi> Restored it; nor did they Restore it neither. For</p>
             <p n="2">2. From this Doctrine it follows, that the World being so long without <hi>Baptism,</hi> there was none qualifyed for the Administration of the Ordinance; It must therefore Inevitably and Eternally Fall to the Ground, unless some with a new and Immediate <hi>Commission</hi> from <hi>Heaven</hi> Revive it. For how can they <hi>Baptize</hi>
-               <pb n="67" facs="tcp:002215_0067_0FDACF8594ED5878"/>
+               <pb n="67" facs="unknown:002215_0067_0FDACF8594ED5878"/>
 others, that are not <hi>Baptized</hi> themselves?</p>
             <p>Thus you see that our Lords Promise to up<g ref="char:EOLhyphen"/>hold this Ordinance, and his Ministers in the Administration thereof, (unless Infant <hi>Baptism</hi> be his Institution) is Inevitably Violated.</p>
             <p>
@@ -1016,7 +1017,7 @@ That now lies before us to Examine, and if upon the Stric<gap reason="illegible"
                </gap>est Tryal, it appears that the Word does signify barely to <hi>Disciple,</hi> he must acknowledge that he is fairly beat out of the field, with his own Weapon.</p>
             <p>The Methods he proposes, are very fair, and such as (Duely observed) will Infallibly bring us to the Sense of the Word. Let us therefore follow him in his own Track.</p>
             <p>
-               <pb n="68" facs="tcp:002215_0068_0FDACF8711FCACE0"/>He first Searches into the Origination of the Word, to see if he can find any thing to his purposes from thence; and I am of Opinion, that there is no way more sure to find out the true sense of a Word, than this; This shews its native meaning, and therefore is more to be depended upon, than the figurative use Words often obtain among Authors.</p>
+               <pb n="68" facs="unknown:002215_0068_0FDACF8711FCACE0"/>He first Searches into the Origination of the Word, to see if he can find any thing to his purposes from thence; and I am of Opinion, that there is no way more sure to find out the true sense of a Word, than this; This shews its native meaning, and therefore is more to be depended upon, than the figurative use Words often obtain among Authors.</p>
             <p>Let us Seek therefore into the Etymology of the Word, and we shall find this Renowned Critick, Chargeable with the Greatest vanity Imaginable in venturing to say, <hi>Page</hi> 263.
 <q>it makes it necessary to understand the Word, to signify to <hi>Teach, Instruct,</hi> or the like.</q>
             </p>
@@ -1037,7 +1038,7 @@ That now lies before us to Examine, and if upon the Stric<gap reason="illegible"
                   </gap>in,</hi> To <hi>Learn</hi> together, from whence, <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>mmathales,</hi> a fellow <hi>Learner,</hi> or School fellow; and so in like manner the Words in Controversy,
-<pb n="69" facs="tcp:002215_0069_0FDACF88920E5850"/>
+<pb n="69" facs="unknown:002215_0069_0FDACF88920E5850"/>
 do Retain some marks of the same Significa<g ref="char:EOLhyphen"/>tion, with the Theam from whence they are derived; as <hi>Mathetes,</hi> a <hi>Disciple,</hi> or <hi>Learner</hi>; from whence <hi>Mathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>euo,</hi> to Constitute a <hi>Learner,</hi> or that which signifyes the very same to <hi>Disci<g ref="char:EOLhyphen"/>ple,</hi> the sense we contend fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1048,7 +1049,7 @@ do Retain some marks of the same Significa<g ref="char:EOLhyphen"/>tion, with th
             <p>And yet how seriously does he proceed to say, <hi>Page</hi> 263
 <q>Since then the Primitive Signifies to <hi>Learn,</hi> and all its Derivatives and Com<g ref="char:EOLhyphen"/>pounds Retain the like sense, why must <hi>Mathetes</hi> and <hi>Matheteuo</hi> be Excepted?</q>
 I say, why Indeed? But who is it that does Except them? Is it not they that thus Industriously attempt to Change their True Native sense; and argue (tho' Ridiculously enough) that <hi>Manthano</hi> and its Derivatives signifies to <hi>Learn,</hi>
-               <pb n="70" facs="tcp:002215_0070_0FDACF8A1E05A370"/>
+               <pb n="70" facs="unknown:002215_0070_0FDACF8A1E05A370"/>
 Therefore <hi>Matheteuo,</hi> one of its Derivatives must signify to <hi>Teach</hi>?</p>
             <p>One would think that this Gentleman de<g ref="char:EOLhyphen"/>signed his Book for the Veiw of None but Illiterate men, or Dunces, that could not dis<g ref="char:EOLhyphen"/>tinguish between <hi>Teaching and Learning,</hi> why Else did he take such Elaborate pains to Expose both himself, and his Cause?</p>
             <p>But as tho' he had not Effectually Bantered his Cause, he gravely undertakes to Shew the meaning of the Word <hi>Disciple</hi> among our selves, and likewise the use of it, among the Latin Au<g ref="char:EOLhyphen"/>thors, from whom we have borrowed it. <hi>Page</hi> 297.
@@ -1060,7 +1061,7 @@ If this be true, (as he has made it appear to be by many quotations from Ancient
             <p>Thus you See [<hi>Sir</hi>] how unhappy his Argu<g ref="char:EOLhyphen"/>ments have been from the Origination of the Word, that instead of Clearing the Cause he undertakes to Defend, they have abundantly Confirmed ours.</p>
             <p>He next proceeds to Shew how the word is used in Greek Authors, which he says, <hi>Page</hi> 266. "will perhaps be thought less liable to Exception, than arguing from Etymologyes.</p>
             <p>But I would Intreat <hi>Mr. Gales</hi> Pardon, if I am forced to believe, that this is much more liable to Exception, than arguing from Etymologies;
-<pb n="71" facs="tcp:002215_0071_0FDACF8B9245FE68"/>
+<pb n="71" facs="unknown:002215_0071_0FDACF8B9245FE68"/>
 For (as a Gentleman of your Reading cannot be Ignorant) Words oft times in Authors, Suffer a violent Catechresis, as; <hi>vir gr<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>is, ipse Caper, deerraverit. Vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1094,7 +1095,7 @@ For (as a Gentleman of your Reading cannot be Ignorant) Words oft times in Autho
                </gap>p the mouth of all Argument from thence; I don<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t
-<pb n="72" facs="tcp:002215_0072_0FDACF8D11F06458"/>
+<pb n="72" facs="unknown:002215_0072_0FDACF8D11F06458"/>
 speak this, because I'm afraid to Joyn Issue with him, upon this Plea; but to shew you, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he use of the word in some si<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1116,7 +1117,7 @@ speak this, because I'm afraid to Joyn Issue with him, upon this Plea; but to sh
                </gap>ing them unto, and Confirming Them in, the Christian Faith, was to stand to the Cause of Christ unto the Death, and in that way to Expect a Crown of Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e<g ref="char:punc">▪</g>
-               <pb n="73" facs="tcp:002215_0073_0FDACF8E91F12B90"/>
+               <pb n="73" facs="unknown:002215_0073_0FDACF8E91F12B90"/>
 He would therefore have them confirm this by their Practice, and not hinder him of his Crown.</p>
             <p>Now this Duty is prescribed to Proselytes, as well by bapt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1146,7 +1147,7 @@ He would therefore have them confirm this by their Practice, and not hinder him 
                </gap>affled upon this head.</p>
             <p>I shall not mis-spend so much time in this word War, as to take particular Notice of all his Cita<g ref="char:EOLhyphen"/>tions, but only consider four or five of the first of them, in the same order as he has placed them, by which you may judge of all the rest.</p>
             <p>
-               <pb n="74" facs="tcp:002215_0074_0FDACF9019E05BF0"/>The first Instance is from <hi>Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="74" facs="unknown:002215_0074_0FDACF9019E05BF0"/>The first Instance is from <hi>Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tarch vit. Decem Rhetor.</hi> pag. 1539. where he finds <hi>Isocrates</hi> saying (to those that not being able to pay for the whole of his Art, were willing to Learn a part of it)
 <q>We don't use to divide our Art, but if you would be Learners of it, I<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1159,7 +1160,7 @@ This word is here used with an application to such as already were not, but were
                <hi>I</hi> need not tell you that this construction (which it must have, or be wholly impertinent to his purpose) is Ridiculous Non-sence.</p>
             <p>But I find he would render it passively, <hi>If you would be Taught, I'll Instruct you</hi>; But the Word is Active, and he therefore must account for this passive construction, or by looking back into his Accedence, be learned to Correct it.</p>
             <p>His 2<hi>d</hi> Instance is from <hi>Ignatius,</hi> who in his <hi>Epistle to the Ephesians,</hi> says, <hi>Though</hi> I <hi>am bound for his name,</hi> I <hi>am not yet perfect in Christ Iesus; nay, I am as it were but as now beginning</hi> [Matheteuesthai] <hi>to be a Learner, or to be Discipled.</hi> The word here is so clear in our favour, that nothing could have been plainer; For the Martyr here Represents himself to be, but an Initiated <hi>Learner,</hi> or newly
-<pb n="75" facs="tcp:002215_0075_0FDACF9193A81AC0"/>
+<pb n="75" facs="unknown:002215_0075_0FDACF9193A81AC0"/>
 constituted a <hi>Learner</hi> of Christ; which is the very sence we c<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ntend for; But how the most Luxuriant Fancy, can understand the word here, in Mr <hi>Gales</hi> Sense, or suppose that it signfiies to <hi>Teach,</hi> is far beyond my Conception. Let us see what a monstrous Solecism it would be, to Translate the Words in this sece. They must be thus Read, I <hi>am not yet perfect in Christ, nay,</hi> I <hi>am but yet beginning to</hi> Teach <hi>him.</hi> To be taught of him, it cannot be rendred, for the Word as in the former instance is Active, and therefore it cannot be passively understood</p>
@@ -1169,12 +1170,12 @@ constituted a <hi>Learner</hi> of Christ; which is the very sence we c<gap reaso
                      <desc>•</desc>
                   </gap>y,</hi> by their con<g ref="char:EOLhyphen"/>versation and good works; but they might be <hi>Discipled,</hi> i. e. So won by their watchful walk, and Charitable, Christian-like Spirit, <hi>&amp;c.</hi> as to be brought to declare for Christ, and bring them<g ref="char:EOLhyphen"/>selves into his <hi>School,</hi> or (as you find the word properly Signifies) to be constituted Learners of him.</p>
             <p>His fourth Instance <hi>I</hi> have considered already,
-<pb n="76" facs="tcp:002215_0076_0FDACF9312BA3850"/>
+<pb n="76" facs="unknown:002215_0076_0FDACF9312BA3850"/>
 and therefore now pass it over.</p>
             <p>In his <hi>Fifth</hi> Instance, the Word is a little altered from Its native sense, and yet makes clearly against him. It is taken from <hi>Clemens Alexand. Strom. Lib.</hi> 1. <hi>Pag.</hi> 320, Where he says, <hi>If they are Learners (Matheteuontes) of any thing, from the Hebrew Phylosophy, let them acknow<g ref="char:EOLhyphen"/>ledge it.</hi> If they <hi>Teach</hi> any thing from the <hi>Hebrew</hi> Philosophy, it must be Rendred, in order to be made any thing Serviceable to <hi>Mr. Gales</hi> Undertaking, which is to prove, that the Word signifies to <hi>Teach</hi>; But this is an Absur<g ref="char:EOLhyphen"/>dity, even too great for him to espouse.</p>
             <p>Here the Word indeed does not properly signify to make, or Constitute <hi>Learners,</hi> but it Signifies being <hi>Disciples,</hi> or <hi>Learners,</hi> which is but little different.</p>
             <p>His 6<hi>th</hi> Instance is taken from the same <hi>Clemens Strom. Lib.</hi> 6. <hi>Page.</hi> 691. Who there says, <hi>To Converse not only with the</hi> Greeks, <hi>but with the</hi> Barbarians <hi>too, and by these common ways of Improving their knowledge, they are brought to the Faith; And then having laid the Foundation of the Truth, they are better enabled to go on in the Search after it; and hence it is that they delight in being,</hi> Discipled, (Matheteusamenoi) <hi>to Christ, and by pursuing after knowledge, they Vigorously pursue Salvation.</hi> The Word is necessary, if you Con<g ref="char:EOLhyphen"/>sider, (1) The purport of the Argument here Improved, which is to shew, that the Cultiva<g ref="char:EOLhyphen"/>ting our Faculties by all Sorts of knowledge, will Render the Profession of <hi>Christianity</hi> desi<g ref="char:EOLhyphen"/>rable,
-<pb n="77" facs="tcp:002215_0077_0FDACF94932AC0E8"/>
+<pb n="77" facs="unknown:002215_0077_0FDACF94932AC0E8"/>
 in our first entring upon it, or begin<g ref="char:EOLhyphen"/>ning to be <hi>Learners,</hi> or <hi>Disciples</hi>; and make us willing to pursue further Degrees of know<g ref="char:EOLhyphen"/>ledge. (2.) The Word here Respects the <hi>Lay<g ref="char:EOLhyphen"/>ing the Foundation of the Truth,</hi> as the fore-going, and following Paragraphs make evident; And is not <hi>the Foundation of the Faith laid</hi> by our being made <hi>Disciples</hi> of Christ?</p>
             <p>Thus [<hi>Sir</hi>] I have gone thro' <hi>Mr. Gales</hi> first <hi>Six</hi> Instances, (and might, with the like advan<g ref="char:EOLhyphen"/>tage, take notice of the Rest) and we find him as unhappy in this Undertaking, as in the for<g ref="char:EOLhyphen"/>mer from the Origination of the Word.</p>
             <p>He next brings in Sundry of our Modern Authors accepting the Word in his Sense; to which it's sufficient answer, That numberless others, as great men, and as much to be Relyed on as they, Justly Contradict 'em.</p>
@@ -1188,7 +1189,7 @@ in our first entring upon it, or begin<g ref="char:EOLhyphen"/>ning to be <hi>Le
             <p>The <hi>Ethiopick,</hi> and <hi>Arabick</hi> Versions, use Words which <hi>Mr. Gale</hi> acknowledges signify to <hi>Learn,</hi> and was <hi>Learned.</hi>
             </p>
             <p>The <hi>Dutch,</hi> Read it <hi>Leert,</hi> which signifies
-<pb n="78" facs="tcp:002215_0078_0FDACF9614E522E8"/>
+<pb n="78" facs="unknown:002215_0078_0FDACF9614E522E8"/>
 to <hi>Learn,</hi> or be <hi>Learners,</hi> as you may see in <hi>Hezam's Dutch Dictionary.</hi>
             </p>
             <p>The <hi>Danish</hi> Read it <hi>La<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1221,7 +1222,7 @@ to <hi>Learn,</hi> or be <hi>Learners,</hi> as you may see in <hi>Hezam's Dutch 
                </gap>es) <hi>Preach the Word to all Nations.</hi> Thus also he deals by <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>igen Contra Celsum</hi> Lib. 2. P 79. By, <hi>Iustin Expos Fides. P.</hi> 376. And his <hi>Dialogue with Tripho, Page.</hi> 272. By, <hi>the
-<pb n="79" facs="tcp:002215_0079_0FDACF9791EC8428"/>
+<pb n="79" facs="unknown:002215_0079_0FDACF9791EC8428"/>
 Apostolical Constitutions,</hi> Lib 7 Chap. 40. By <hi>Clement, Hom</hi> 17 Cap. 7. And by, <hi>Epiphan. Ad<g ref="char:EOLhyphen"/>vers. Her f.</hi> Lib 1. Cap. 50. His Argument upon this head, should be thus formed, The Greek <hi>Father</hi> Unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>stood the Word (<hi>Matheteuo</hi>) in the <hi>Commissi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1231,7 +1232,7 @@ Apostolical Constitutions,</hi> Lib 7 Chap. 40. By <hi>Clement, Hom</hi> 17 Cap.
             <p>He next undertakes to prove from Scripture, that the Word does signify to <hi>Teach</hi>; and if his performance had been any thing answerable to his undertaking, we must have been forever Silent upon this head.</p>
             <p>He first from <hi>Acts</hi> 8.37 Argues, That <hi>Phil<g ref="char:EOLhyphen"/>lip,</hi> previous to his <hi>Baptizing</hi> the <hi>Eunuch,</hi> In<g ref="char:EOLhyphen"/>structed him. Bravely performed! But who questions this a necessary Pre-requisite, to the <hi>Baptism</hi> of the Adult?</p>
             <p>He next argues from <hi>Acts.</hi> 14.21. <hi>They had preached the Gospel in that City, and had Taught many.</hi> This Word (says he) is the same with that in the <hi>Commission,</hi> and is here Rendred <hi>Taught</hi>; But why may we not Read it, had made many
-<pb n="80" facs="tcp:002215_0080_0FDACF9913086408"/>
+<pb n="80" facs="unknown:002215_0080_0FDACF9913086408"/>
                <hi>Disciples</hi>; for so I find it rendred in the Old <hi>Latin</hi> Version, and also in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e Marg<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1300,7 +1301,7 @@ Apostolical Constitutions,</hi> Lib 7 Chap. 40. By <hi>Clement, Hom</hi> 17 Cap.
                   </gap>e, open <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Eyes, and turning to the Sun when it shines out,
-<pb n="81" facs="tcp:002215_0081_0FDACF9A929EC4F8"/>
+<pb n="81" facs="unknown:002215_0081_0FDACF9A929EC4F8"/>
 deny there's any Sun at all, or affirm its mid<g ref="char:EOLhyphen"/>night.</q>
             </p>
             <p>What put <hi>Mr. Gale</hi> upon this Attempt, I'll not undertake to Determine; If it was an affect<g ref="char:EOLhyphen"/>ation of Esteem for his Schollarship, his End is answered; but if what he pretends, he's mise<g ref="char:EOLhyphen"/>rably disappointed.</p>
@@ -1308,7 +1309,7 @@ deny there's any Sun at all, or affirm its mid<g ref="char:EOLhyphen"/>night.</q
             <p>Had <hi>Mr. Gale</hi> found any authority to Confirm his bold Assertion, that <hi>Page.</hi> 541.
 <q>There is abundant grounds to Deny, that it <hi>(Infant Baptism)</hi> was used above two hundred years after Christ, </q>There would have been some<g ref="char:EOLhyphen"/>thing Considerable, in the Argument:
 But since he layes it down praecariously, without one single Author saying a Word in his favour, we have found so very little grounds to depend upon his bare Word, that we may fairly Reject it. I should indeed have been willing to make some Enquiry into the truth hereof, if I had by me, or could in this Dark Corner of the World, come at the Ecclesiastical Writers of the first Centuries; But yet I must tell you, that I can't help but Conclude, that the writings
-<pb n="82" facs="tcp:002215_0082_0FDACF9C1294E988"/>
+<pb n="82" facs="unknown:002215_0082_0FDACF9C1294E988"/>
 of the Earliest and purest Times, are not so silent in this Case, as <hi>Mr. Gale</hi> pretends; for I find <hi>Clemens Romanus, Ireneus, Iustin Martyr,</hi> &amp;c. quoted to this purpose, by those, whose Lear<g ref="char:EOLhyphen"/>ning and Faithfulness I shall not question, Until I see it disproved; And I'm pretty well assured, that there's nothing in the primitive Fathers against Infant <hi>Baptism</hi>; if there had, <hi>Mr. Gale</hi> would not have scrupled to let us know it. What Ecclesiastical writers I can come at are very full and plain in this Case.</p>
             <p>
                <hi>Origen,</hi> who flourished <hi>Anno</hi> 220. brings in full Testimony to Infant <hi>Baptism; as</hi> in <hi>Lib.</hi> 5. ad <hi>Rom.</hi> cap 6 <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1339,7 +1340,7 @@ of the Earliest and purest Times, are not so silent in this Case, as <hi>Mr. Gal
                      <desc>•</desc>
                   </gap>, &amp;c. If</hi> (says he) <hi>to the most grievous offenders, and those that were before great Sinners,
 <pb n="83"
-                      facs="tcp:002215_0083_0FDACF9D923F6AD0"
+                      facs="unknown:002215_0083_0FDACF9D923F6AD0"
                       rendition="simple:additions"/>
 is given, after they Believe, Remi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1416,21 +1417,21 @@ is given, after they Believe, Remi<gap reason="illegible" resp="#PDCC" extent="1
                </gap>n this head, in his Controversie with <hi>Pelagius,</hi> as Lib. 1. <hi>De Peccat. Mer. et Remiss. cap.</hi> 26. <hi>Parvulos Baptizandos Esse concedunt, qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> contra autorita tem universae Ecclesiae, procul Dubio per Dominum, et Apostolis traditam,
-<pb n="84" facs="tcp:002215_0084_0FDACF9F3696D698"/>
+<pb n="84" facs="unknown:002215_0084_0FDACF9F3696D698"/>
 venire non possunt.</hi> i. e. <hi>That Infants are to be Baptiz<g ref="char:EOLhyphen"/>ed</hi> (says he) <hi>They</hi> (the Pelagians) <hi>grant, who cannot go Contrary to the Authority of the</hi> Universal <hi>Church, which, without doubt, was Delivered by the Lord, and his Apostles.</hi> And <hi>Serm.</hi> 10 <hi>De verb. Apostel.</hi> speaking of Infants Baptism, he says <hi>Nemo vobi sussuret Doctrinas alienas, Hoc Ecclesia semper habu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t, semper tenuit, Hoc a majorum Fide ac<g ref="char:EOLhyphen"/>cepit, Hoc usque in finem perseveranter Custodit,</hi> i. e. <hi>Let no man whisper any other Doctrine to you; this the Church has always had, always held; this she Receiveth from the Faith of our Ancestors; this she perseve<g ref="char:EOLhyphen"/>ringly keeps to the End.</hi>
             </p>
             <p>These Testimonies are as full and plain as can be written, and tho' <hi>Mr. Gale</hi> intimates, that they are too late to determine the matter; I think not so; for can it be supposed, that in an affair of this Nature, the Church should be thus Imposed upon a Foundation laid for turning the true <hi>Baptism</hi> out of Doors, and even Un<g ref="char:EOLhyphen"/>churching the World (the necessary Conse<g ref="char:EOLhyphen"/>quence of bringing in Infant <hi>Baptism</hi> Contrary to Christs Institution, as I observed before) And this be received as the Ordinance of Christ, and the Constant Faith of the Church, in all Quarters of the World; And yet all Footsteps of this Innovation be oblitterated, and the Remembrance and Knowledge of it utterly Effaced, in two or three Hundred Years? It does not look possible.</p>
             <p>Many Errors indeed did creep into the Church in these Centuries, but as they generally met
-<pb n="85" facs="tcp:002215_0085_0FDACFA091F507D8"/>
+<pb n="85" facs="unknown:002215_0085_0FDACFA091F507D8"/>
 with opposition, so we have for the most part an account, by what means they were brought in. But this Doctrine (tho' of such great moment) must at once creep into all parts of the Earth, and without any opposition, like an Irresistible Charm, gain universal Credit; and all Circumstances of this Change, be hid from the knowledge of Next Ages: And thus the true Ordinance of Christ, (which by his Promise was to continue to the End of the Worl) must fall a Sacrifice to this Innovation, and not one Tongue or Pen stand up in its defence.</p>
             <p>Its Strange (if this were an Innovation) that there can be no account when it was Introduced. <hi>Mr. Gale</hi> is Ready, <hi>Pag.</hi> 528. to account it pro<g ref="char:EOLhyphen"/>bable, that it was Introduced in <hi>Affrica,</hi> at or near <hi>St. Cyprians</hi> Time; But then, its Strange that <hi>Augustine</hi> in so little a time after, should know nothing of this, and boldly affirm, That the Church had always had, and held <hi>Infant Baptism.</hi>
             </p>
             <p>
                <hi>Mr. Gale</hi> frequently tells us, that the Mode of administring this Ordinance in <hi>England,</hi> was Changed about <hi>Queen Elizabeths</hi> time; but would he not take it as an Affront, if we should tell him, He is too late to determine this mat<g ref="char:EOLhyphen"/>ter, we can't depend upon what he says in that respect; he speaks of an Affair of too ancient a date for him to know any thing about.</p>
             <p>If it should be enquired, what Religion was Established in <hi>England,</hi> before <hi>King Henry</hi> 8<hi>th,</hi>
-               <pb n="86" facs="tcp:002215_0086_0FDACFA2141357E0"/>
+               <pb n="86" facs="unknown:002215_0086_0FDACFA2141357E0"/>
 Could not even every Plow-man (almost) tell us, it was <hi>Papery</hi>? How then should these <hi>Fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ers</hi> in less time, be perfect strangers to the Practice of the Church about Baptism?</p>
@@ -1445,7 +1446,7 @@ Its time to have done with this Controversy, which I shall wind up, with this ne
             <q>Ornare res ipsa Negat, Contenta Doceri.</q>
             <p>You may find some Arguments herein, that others have handled before me; but (tho' I don't love to Transcribe) <hi>I</hi> see no Reason, to
 <pb n="87"
-                   facs="tcp:002215_0087_0FDACFA3960C6CA8"
+                   facs="unknown:002215_0087_0FDACFA3960C6CA8"
                    rendition="simple:additions"/>
 neglect the mentioning of 'em, because they occur in others; And <hi>I</hi> would also put you in mind of that Saying,
 <q>Non quicquid cum antiquis Convenit Ex antiquis Sumptum.</q>
